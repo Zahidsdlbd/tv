@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/abid58b/ICCPlaylist/refs/heads/main/iccevent.m
 https://raw.githubusercontent.com/abid58b/CricketAuPlaylist/refs/heads/main/cricketau.m3u
 https://raw.githubusercontent.com/abid58b/StyxSportsPlaylist/refs/heads/main/styxsports.m3u
 https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
-https://raw.githubusercontent.com/abusaeeidx/Ayna-Playlists-free-Version/refs/heads/main/playlist.m3u
+https://raw.githubusercontent.com/IPTVFlixBD/BDIX-IPTV-playlist/refs/heads/main/BDIX.m3u
 https://bongoflixbd.top/test/playlist.php
 https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
