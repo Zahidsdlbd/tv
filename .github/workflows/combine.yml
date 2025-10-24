@@ -1,0 +1,40 @@
+name: Auto Combine M3U Playlists
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:  # allows manual run
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Read and download all sources
+        run: |
+          mkdir temp
+          n=1
+          while read -r url; do
+            if [ -n "$url" ]; then
+              echo "Downloading: $url"
+              curl -L "$url" -o "temp/playlist$n.m3u"
+              n=$((n+1))
+            fi
+          done < sources.txt
+
+      - name: Combine all playlists
+        run: |
+          echo "#EXTM3U" > master.m3u
+          for f in temp/*.m3u; do
+            echo "" >> master.m3u
+            cat "$f" >> master.m3u
+          done
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add master.m3u
+          git commit -m "Auto update combined playlist" || echo "No changes"
+          git push
