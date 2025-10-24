@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u
+https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv-ww.m3u
