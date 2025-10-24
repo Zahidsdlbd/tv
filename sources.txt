@@ -9,4 +9,3 @@ https://raw.githubusercontent.com/abid58b/StyxSportsPlaylist/refs/heads/main/sty
 https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
 https://raw.githubusercontent.com/IPTVFlixBD/BDIX-IPTV-playlist/refs/heads/main/BDIX.m3u
 https://bongoflixbd.top/test/playlist.php
-https://raw.githubusercontent.com/time2shine/IPTV/1cb350d4ee2d2798b5c2148c04df091b17987d87/combined.m3u
