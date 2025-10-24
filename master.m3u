@@ -1,6 +1,35 @@
 #EXTM3U
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Day 1 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119261_english_hls_b0866561b940685ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119261_english_hls_b0866561b940685ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134002_5608_MR-W_AS-W_FC-Web.jpg" group-title="Fancode-Cricket", Adelaide Strikers Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/134002_english_hls_0e1135609e9719ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/134002_english_hls_0e1135609e9719ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" group-title="Fancode-Golf", Day 2 vs Jack Nicklaus Golf Clu (Genesis Championship)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/136868_english_hls_af01ba2c6284727ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/136868_english_hls_af01ba2c6284727ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg" group-title="Fancode-Golf", Day 1 vs Sunrise Golf and Country Club (Wistron Ladies Open)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137367_english_hls_c9a8a83c2d19958ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137367_english_hls_c9a8a83c2d19958ta-di_h264/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134002_5608_MR-W_AS-W_FC-Web.jpg" group-title="Fancode-Cricket", Adelaide Strikers Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134002_english_hls_0e1135609e9719ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Day 1 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/119261_english_hls_b0866561b940685ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Genesis-Championsip_Old_match-card.jpg" group-title="Fancode-Golf", Day 2 vs Jack Nicklaus Golf Clu (Genesis Championship)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136868_english_hls_af01ba2c6284727ta-di_h264/index.m3u8
+
+
+#EXTM3U
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
@@ -9,3 +38,9 @@ http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090492964_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722875213903_AsianTour25_International_Series_Philippines_Day2_5oct_landscape_thumb.jpg" group-title="Live",International Series Philippines - Day 2 - 24 Oct 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761329314~acl=/*~id=12758873292127623557134320874423~hmac=e5b80bcdd3cd9977ca8856078551a9b17b216763de95a7621b51b6ba927eb874
+
+#EXTM3U
+#EXTM3U
+
+#EXTM3U
+
