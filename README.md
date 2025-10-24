@@ -10,7 +10,7 @@ This repository automatically collects and combines multiple `.m3u` playlist URL
 ## 🔗 Example
 You can access your latest master playlist here:
 ```
-https://raw.githubusercontent.com/<your-username>/<your-repo-name>/main/master.m3u
+https://raw.githubusercontent.com/Zahidsdlbd/tv/refs/heads/main/master.m3u
 ```
 
 Just replace `<your-username>` and `<your-repo-name>` with your own.
