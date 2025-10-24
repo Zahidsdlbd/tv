@@ -25,76 +25,6 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
-http://stvlive.net:8080/banglavision/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
-http://stvlive.net:8080/channeli/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",Enter Ten Bangla
-http://stvlive.net:8080/entertenbn/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png",GTV 1
-http://stvlive.net:8080/gtv/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
-http://stvlive.net:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
-http://stvlive.net:8080/metv/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
-http://stvlive.net:8080/moviebangla/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
-http://stvlive.net:8080/nagorik/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
-http://stvlive.net:8080/nick/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
-http://stvlive.net:8080/somoy/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
-http://stvlive.net:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
-http://stvlive.net:8080/starselect1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",Star Sports 1
-http://stvlive.net:8080/starsports1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
-http://stvlive.net:8080/starsports2/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
-http://stvlive.net:8080/sunbangla/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
-http://stvlive.net:8080/tsports1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
-http://stvlive.net:8080/zeebangla/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
-http://103.175.242.10:8080/banglavision/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
-http://103.175.242.10:8080/channeli/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",Enter Ten Bangla
-http://103.175.242.10:8080/entertenbn/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png",GTV 1
-http://103.175.242.10:8080/gtv/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
-http://103.175.242.10:8080/jamuna/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
-http://103.175.242.10:8080/metv/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
-http://103.175.242.10:8080/moviebangla/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
-http://103.175.242.10:8080/nagorik/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
-http://103.175.242.10:8080/nick/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
-http://103.175.242.10:8080/somoy/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
-http://103.175.242.10:8080/sonyten5/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
-http://103.175.242.10:8080/starselect1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",Star Sports 1
-http://103.175.242.10:8080/starsports1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
-http://103.175.242.10:8080/starsports2/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
-http://103.175.242.10:8080/sunbangla/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
-http://103.175.242.10:8080/tsports1/index.m3u8
-#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
-http://103.175.242.10:8080/zeebangla/index.m3u8
-
-#EXTM3U
 
 #EXTINF:-1 tvg-id="f19328c5c772" tvg-name="ICC Women's Cricket World Cup 2025" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OHjtBJkBcqxnFHJBUu4B/posters/8bb71f14-009c-4a63-aa5b-bdf4de2a8a04.png" tvg-chno="f19328c5c772" group-title="",ICC Women's Cricket World Cup 2025
 https://bongoflixbd.top/test/live.php?id=match-asiacup&e=.m3u8
@@ -286,87 +216,71 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png", Star Sports 1
-https://d15.epicquesthero.com:999/hls/star1in.m3u8?md5=xWFniW5Qy8KbSCLTieIwXQ&expires=1761320146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png", Star Sports 1 Hindi
-https://d15.epicquesthero.com:999/hls/starhindi.m3u8?md5=P_J1v50DnB4AhHAqhqxlAA&expires=1761320146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV Sports
-https://d15.epicquesthero.com:999/hls/ptvpk.m3u8?md5=E57uuLEW8KTzgmlHVB4Qcw&expires=1761320146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png", Willow HD
-https://d15.epicquesthero.com:999/hls/willowusa.m3u8?md5=YdoqprC3XuYAzgGMWeyI2g&expires=1761320146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png", Willow HD 2
-https://d15.epicquesthero.com:999/hls/willowextra.m3u8?md5=DtL_kPMbdut6xb-cvvwLSg&expires=1761320146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png", Ten Sports
-https://d15.epicquesthero.com:999/hls/tenspk.m3u8?md5=6BCoAQnXt0C8aaiTmGIC2Q&expires=1761320146
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png", A Sports HD
-https://d15.epicquesthero.com:999/hls/asportshd.m3u8?md5=PAHnbea5N2HxuDaukRykvw&expires=1761320147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png", Sky Sports Cricket
-https://d15.epicquesthero.com:999/hls/skyscric.m3u8?md5=RJng-z_fCHjSARGYs3M1OA&expires=1761320147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png", Sky Sports Main Event
-https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=vEskyadFyD5bdxL7mk2UnA&expires=1761320147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 1
-https://d15.epicquesthero.com:999/hls/bbtsp1.m3u8?md5=0HD-eUbcfIvb5DolhQrHOw&expires=1761320147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 2
-https://d15.epicquesthero.com:999/hls/bbtsp2.m3u8?md5=6bvxFAOyD9gMHs5PoWZAXQ&expires=1761320147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 3
-https://d15.epicquesthero.com:999/hls/bbtsp3.m3u8?md5=Jm1zEls5Azc1wo9w2J_FXg&expires=1761320147
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 4
-https://d15.epicquesthero.com:999/hls/bbtespn.m3u8?md5=8UBwj0F0bDJNb9MdCG73eQ&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 1
-https://d15.epicquesthero.com:999/hls/sky1nz.m3u8?md5=XoMqBrMH4LbiPnWxDWG9FA&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 2
-https://d15.epicquesthero.com:999/hls/sky2nz.m3u8?md5=xIsBYHQmGKnxfOvpr-6kZg&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 3
-https://d15.epicquesthero.com:999/hls/sky3nz.m3u8?md5=m8Lu5ZovSWUD07WazB5GMg&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 4
-https://d15.epicquesthero.com:999/hls/sky4nz.m3u8?md5=HPByZ9szzxR1gOioxVglig&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 5
-https://d15.epicquesthero.com:999/hls/sky5nz.m3u8?md5=bhHc1W9W-1gU_Ffb3MQj4g&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 6
-https://d15.epicquesthero.com:999/hls/sky6nz.m3u8?md5=dpf9LUTvbAPguh-ygVgeeA&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 7
-https://d15.epicquesthero.com:999/hls/sky7nz.m3u8?md5=kj7YMbchzKwyuh0bnKyw3g&expires=1761320148
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 8
-https://d15.epicquesthero.com:999/hls/sky8nz.m3u8?md5=gSekigvre7Ob43t12Zgt1A&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 9
-https://d15.epicquesthero.com:999/hls/sky9nz.m3u8?md5=E_GxFV7JxDRrJEstGgGi1A&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png", Sky Cinema
-https://d15.epicquesthero.com:999/hls/skysme.m3u8?md5=fu7h1uduWQB1S_2mI7ojSQ&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png", Sky Sports Action
-https://d15.epicquesthero.com:999/hls/skysact.m3u8?md5=520hA0Xx9rOMPleEeu5I_A&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png", Sky Sports Golf
-https://d15.epicquesthero.com:999/hls/skysgol.m3u8?md5=xTt_zusNRESaABDcHTli_g&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png", Sky Sports Premier League
-https://d15.epicquesthero.com:999/hls/skysprem.m3u8?md5=Rr2Z-yF2WBuPH4DFMcJuSw&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png", Sky Sports Football
-https://d15.epicquesthero.com:999/hls/skysfott.m3u8?md5=uGwumVOFBygKZAtgneVSuA&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png", Sky Sports Plus
-https://d15.epicquesthero.com:999/hls/skysare.m3u8?md5=FFqqwb4RAYWP3krXcPG8FA&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png", Sky Sports F1
-https://d15.epicquesthero.com:999/hls/skysfor1.m3u8?md5=-WKP6RN9Z7bJ8hfVvJWqqg&expires=1761320149
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png", LaLiGA
-https://d15.epicquesthero.com:999/hls/laligauk.m3u8?md5=MgcHARJHZAu_zeQb4Ije7Q&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Premier Sports 1
-https://d15.epicquesthero.com:999/hls/premieruk.m3u8?md5=x0Y-d0atz_rr-91E6JI3DA&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Premier Sports 2
-https://d15.epicquesthero.com:999/hls/hdchnl2.m3u8?md5=5hgMR8ogbtJluflJpuUhUA&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png", Super Football
-https://d15.epicquesthero.com:999/hls/superfotball.m3u8?md5=9ke95JMyRkl2Xcm14QSifg&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png", Super Premier League
-https://d15.epicquesthero.com:999/hls/superpremier.m3u8?md5=6bDfpfXBGmxlt6OMw-aMUA&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png", Astro Cricket
-https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=vOkojk4-wSdPQb-XMo_Kpg&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png", ESPN 1
-https://d15.epicquesthero.com:999/hls/espnusa.m3u8?md5=PjNFG6Az0_X7ICIFs9mIvA&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png", ESPN 2
-https://d15.epicquesthero.com:999/hls/espn2.m3u8?md5=2Md0WKmBysVsgrZj3vOxEg&expires=1761320150
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png", Sky Sports Arena
-https://d15.epicquesthero.com:999/hls/skysare.m3u8?md5=0f2h0TAfDUd7REeG71V_ig&expires=1761320151
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png", Sky Sports Mix
-https://d15.epicquesthero.com:999/hls/skysmixx.m3u8?md5=eKmzVVu3tXt1gkAvXztKdQ&expires=1761320151
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png", Sky Sports Tennis
-https://d15.epicquesthero.com:999/hls/skystennis.m3u8?md5=fdvurbNDHVi2iE0vfZtzkA&expires=1761320151
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png", Fox Cricket 501 HD
-https://d15.epicquesthero.com:999/hls/fox501.m3u8?md5=n5A6593iC9F8PtM7bQfCcw&expires=1761320151
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Sony Sports3
-https://d15.epicquesthero.com:999/hls/ten1hd.m3u8?md5=pPuC_ybYBXIC8kWsKxhdmQ&expires=1761320151
+#EXTINF:-1 tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
+http://stvlive.net:8080/channeli/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",Enter Ten Bangla
+http://stvlive.net:8080/entertenbn/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png",GTV 1
+http://stvlive.net:8080/gtv/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
+http://stvlive.net:8080/jamuna/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
+http://stvlive.net:8080/metv/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
+http://stvlive.net:8080/moviebangla/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
+http://stvlive.net:8080/nagorik/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
+http://stvlive.net:8080/nick/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
+http://stvlive.net:8080/somoy/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
+http://stvlive.net:8080/starselect1/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",Star Sports 1
+http://stvlive.net:8080/starsports1/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
+http://stvlive.net:8080/starsports2/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
+http://stvlive.net:8080/sunbangla/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
+http://stvlive.net:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
+http://stvlive.net:8080/zeebangla/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
+http://103.175.242.10:8080/banglavision/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
+http://103.175.242.10:8080/channeli/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Enter%20Ten%20Bangla1731466848.png",Enter Ten Bangla
+http://103.175.242.10:8080/entertenbn/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png",GTV 1
+http://103.175.242.10:8080/gtv/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
+http://103.175.242.10:8080/jamuna/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
+http://103.175.242.10:8080/metv/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
+http://103.175.242.10:8080/moviebangla/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
+http://103.175.242.10:8080/nagorik/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
+http://103.175.242.10:8080/nick/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
+http://103.175.242.10:8080/somoy/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
+http://103.175.242.10:8080/sonyten5/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
+http://103.175.242.10:8080/starselect1/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png",Star Sports 1
+http://103.175.242.10:8080/starsports1/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
+http://103.175.242.10:8080/starsports2/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
+http://103.175.242.10:8080/sunbangla/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Tsports1735735587.png",Tsports
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 group-title="By XFIRE FLIX" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
+http://103.175.242.10:8080/zeebangla/index.m3u8
