@@ -10,4 +10,3 @@ https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-perman
 https://raw.githubusercontent.com/IPTVFlixBD/BDIX-IPTV-playlist/refs/heads/main/BDIX.m3u
 https://bongoflixbd.top/test/playlist.php
 https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
-https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/main/combined-playlist.m3u
