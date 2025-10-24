@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-25 00:57:43 (BD Time)
+# Update on 2025-10-25 01:58:02 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,16 +192,9 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
-https://d2xclhq6ntmw34.cloudfront.net/out/v1/3c9aa3f5f1474c2db4570635f056f8a9/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136609_5655_ITT_AHS_fc-web.jpg" group-title="Fancode-Football", Al-Ittihad vs Al Hilal SFC (Roshn Saudi League 2025-2026)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/136609_english_hls_ab1456905c17101ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/136609_english_hls_ab1456905c17101ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137486_5722_SHA_EMB_fc-web.jpg" group-title="Fancode-Cricket", Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130921_5427_RS_SEV_fc-Web.jpg" group-title="Fancode-Football", Real Sociedad vs Sevilla FC (LALIGA 2025-26)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/130921_english_hls_c6da498b48865adfreeta-di_h264/index.m3u8
@@ -219,17 +212,11 @@ https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mu
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8
 
-
-#EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
 https://d2xclhq6ntmw34.cloudfront.net/out/v1/3c9aa3f5f1474c2db4570635f056f8a9/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136609_5655_ITT_AHS_fc-web.jpg" group-title="Fancode-Football", Al-Ittihad vs Al Hilal SFC (Roshn Saudi League 2025-2026)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136609_english_hls_ab1456905c17101ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137486_5722_SHA_EMB_fc-web.jpg" group-title="Fancode-Cricket", Emirates Blues vs Sharjah (Emirates D20 Tournament, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137511_english_hls_0e172242f751680ta-di_h264/index.m3u8
-
+#EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130921_5427_RS_SEV_fc-Web.jpg" group-title="Fancode-Football", Real Sociedad vs Sevilla FC (LALIGA 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130921_english_hls_c6da498b48865adfreeta-di_h264/index.m3u8
 
@@ -242,6 +229,9 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" group-title="Fancode-Golf", Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 1 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
+https://d2xclhq6ntmw34.cloudfront.net/out/v1/3c9aa3f5f1474c2db4570635f056f8a9/index.m3u8
+
 
 #EXTM3U
 
@@ -251,16 +241,12 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090493078_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591041448218_bliga2526_MD8_Werder_Bremen_vs_Union_Berlin_3oct_landscape_thumb.jpg" group-title="Live",Werder Bremen vs Union Berlin - MD 8 - 24 Oct 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761375690~acl=/*~id=29073962218777987128134283958533~hmac=51ba432d7d197f1ac385404601842d7c1378d758279741f31ed043e488d43648
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761379350~acl=/*~id=28940249059747256648951987153817~hmac=15a57b6d972904347f62dfe644dae70b41c01b94d9844e3ed361db09a2db9d58
 
 #EXTM3U
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68f8d656e4b44a5c727eb815" tvg-name="Consolidated Shipping Group VS Karwan" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138258270-515351368.webp" group-title="Live",Consolidated Shipping Group VS Karwan
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
 
 #EXTM3U
