@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-24 19:30:14 (BD Time)
+# Update on 2025-10-24 20:02:43 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -205,14 +205,14 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090493129_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009910/1759715983570161_UECL2526_MD2_Rijeka_vs_Sparta_Prague_5oct_landscape_thumb.jpg" group-title="Live",Rijeka vs Sparta Prague - MD 2 - 24 Oct 2025 [ENG] - UEFA Conference League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761356178~acl=/*~id=74110441481851292342934462981692~hmac=df926b655d6ee649d8eab8d6e0261b6f8aaea503aed2a36b08b9c1c560c7f71e
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761358009~acl=/*~id=33265851481555889890856700352835~hmac=f14dd284349ff6c1d61aa13eba5f4916d75a61474b877efe49cc7cede4682c6a
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761291579/prd/pzazrrefcsi5ajlzv8bv" group-title="Live",PAK vs SL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761312838~exp=1761312878~acl=/variant/v1blackout/vcg-01-d/*~hmac=c016c28f1de241706ac6e3d53d6feca7acd5a4bd8d1da7c8bc93d9f194710843&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761313801~exp=1761313841~acl=/variant/v1blackout/vcg-01-d/*~hmac=9bf0b08e01cd7f4d721960961a09398c9e81ac6016989972e66f9b76f9a5e599&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
