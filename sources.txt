@@ -1,2 +1,7 @@
+https://raw.githubusercontent.com/abid58b/FanCodePlaylist/refs/heads/main/fancode_ww2.m3u
+https://raw.githubusercontent.com/abid58b/FanCodePlaylist/refs/heads/main/fancode_ww1.m3u
 https://raw.githubusercontent.com/abid58b/WillowLivePlaylist/refs/heads/main/willowlive.m3u
 https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv-ww.m3u
+https://raw.githubusercontent.com/abid58b/ICCPlaylist/refs/heads/main/iccevent.m3u
+https://raw.githubusercontent.com/abid58b/CricketAuPlaylist/refs/heads/main/cricketau.m3u
+https://raw.githubusercontent.com/abid58b/StyxSportsPlaylist/refs/heads/main/styxsports.m3u
