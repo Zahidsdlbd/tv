@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-25 14:57:37 (BD Time)
+# Update on 2025-10-25 15:57:56 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,10 +192,6 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Day 2 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137723_5728_PR_OBI_fc-web.jpg" group-title="Fancode-Cricket", Paarl Rocks vs Overberg Indwe (Boland T10, 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137723_english_hls_610f1c957291633ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137723_english_hls_610f1c957291633ta-di_h264/index.m3u8
@@ -221,13 +217,14 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 http://invalid.stream.url
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761379450/prd/yb0xekpuieywjp1yctfm" group-title="Live",AUS vs SA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761384044~exp=1761384084~acl=/variant/v1blackout/vcg-01-d/*~hmac=935b4cbedd51f318733b3fbd708c4f73758b90f0ed1b5666afc3893bc99200eb&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68f3a32ee4b44a5c727eb7e8" tvg-name="Paarl Rocks VS Overberg Indwe" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760797479148-437250028.webp" group-title="Live",Paarl Rocks VS Overberg Indwe
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 
 #EXTM3U
