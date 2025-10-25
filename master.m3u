@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-25 04:57:51 (BD Time)
+# Update on 2025-10-25 05:57:56 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,9 +192,6 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 2 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
-https://d2dloyxxfble5g.cloudfront.net/out/v1/cc7eb4e81ef7455ca3f10a1f6a2ccd4a/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134003_5608_BH-W_MS-W_FC-Web.jpg" group-title="Fancode-Cricket", Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/134003_english_hls_f978614dbd45634ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/134003_english_hls_f978614dbd45634ta-di_h264/index.m3u8
@@ -207,16 +204,23 @@ https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mu
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137317_english_hls_ed2e751e1283579ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137317_english_hls_ed2e751e1283579ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137807_CASACARDS_APP.png" group-title="Fancode-Baseball", Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137807_english_hls_0e9873608e40559ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137807_english_hls_0e9873608e40559ta-di_h264/index.m3u8
+
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 2 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
-https://d2dloyxxfble5g.cloudfront.net/out/v1/cc7eb4e81ef7455ca3f10a1f6a2ccd4a/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134003_5608_BH-W_MS-W_FC-Web.jpg" group-title="Fancode-Cricket", Brisbane Heat Women vs Melbourne Stars Women (T20 Spring Challenge, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134003_english_hls_f978614dbd45634ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" group-title="Fancode-Golf", Day 2 - Featured Groups vs Black Desert Resort (Bank of Utah Championship)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137318_english_hls_1778e4abcc97607ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" group-title="Fancode-Golf", Day 2 - World Feed vs Black Desert Resort (Bank of Utah Championship)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137317_english_hls_ed2e751e1283579ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137807_CASACARDS_APP.png" group-title="Fancode-Baseball", Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137807_english_hls_0e9873608e40559ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Day 2 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -230,22 +234,6 @@ http://invalid.stream.url
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68fa29c1f77cf099f802bdc1" tvg-name="Central Stags VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297783007-455289582.webp" group-title="Live",Central Stags VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
-#EXTINF:-1 tvg-id="68fa2a01f77cf099f802bdc2" tvg-name="Canterbury Kings VS Otago Volts" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297763718-728644297.webp" group-title="Live",Canterbury Kings VS Otago Volts
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
-#EXTINF:-1 tvg-id="68fa2a54f77cf099f802bdc3" tvg-name="Auckland Aces VS Northern District" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297798564-143301632.webp" group-title="Live",Auckland Aces VS Northern District
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
-#EXTINF:-1 tvg-id="68f8a2985e14fc3d2e06973a" tvg-name="Brisbane Heat Women VS Melbourne Star Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761125013773-311599639.webp" group-title="Live",Brisbane Heat Women VS Melbourne Star Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
 
 #EXTM3U
