@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-25 12:57:32 (BD Time)
+# Update on 2025-10-25 13:57:46 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -196,14 +196,6 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137014_CASACARDS_APP.png" group-title="Fancode-Football", Kyoto Sanga vs Kashima Antlers (J League 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137014_english_hls_6aee5722dc58854ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137014_english_hls_6aee5722dc58854ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137012_CASACARDS_APP.png" group-title="Fancode-Football", Urawa Red Diamonds vs Machida Zelvia (J League 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137012_english_hls_53b391b57c32486ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137012_english_hls_53b391b57c32486ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png" group-title="Fancode-Football", Cerezo Osaka vs Kawasaki Frontale (J League 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137015_english_hls_ef048bd71c32665ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137015_english_hls_ef048bd71c32665ta-di_h264/index.m3u8
@@ -220,12 +212,6 @@ https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mu
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Day 2 vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/119264_english_hls_b48419e67989269ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137014_CASACARDS_APP.png" group-title="Fancode-Football", Kyoto Sanga vs Kashima Antlers (J League 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137014_english_hls_6aee5722dc58854ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137012_CASACARDS_APP.png" group-title="Fancode-Football", Urawa Red Diamonds vs Machida Zelvia (J League 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137012_english_hls_53b391b57c32486ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137015_CASACARDS_APP.png" group-title="Fancode-Football", Cerezo Osaka vs Kawasaki Frontale (J League 2025)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137015_english_hls_ef048bd71c32665ta-di_h264/index.m3u8
@@ -245,12 +231,16 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 http://invalid.stream.url
 #EXTINF:-1 tvg-id="1090493127_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009914/1759722867894903_AsianTour25_International_Series_Philippines_Day3_5oct_landscape_thumb.jpg" group-title="Live",International Series Philippines - Day 3 - 25 Oct 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761418995~acl=/*~id=87141107227723933356972625342354~hmac=49ada43399894f766423d449f592347c7a3dc5316ad3647d274b4e5ce7c4c354
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761422636~acl=/*~id=77874814601050037501936131124202~hmac=fdf506e64a2422eccc56dcaac35f6b172cff8e15952a4cad334b79d9d5cf4ea2
 
 #EXTM3U
 #EXTM3U
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="68f3a32ee4b44a5c727eb7e8" tvg-name="Paarl Rocks VS Overberg Indwe" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760797479148-437250028.webp" group-title="Live",Paarl Rocks VS Overberg Indwe
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 
 #EXTM3U
