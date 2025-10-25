@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-25 22:57:54 (BD Time)
+# Update on 2025-10-25 23:57:56 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,10 +192,6 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137726_5728_WCB_PR_fc-web.jpg" group-title="Fancode-Cricket", West Coast Blues vs Paarl Rocks (Boland T10, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137726_english_hls_582afcf82c67486ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137726_english_hls_582afcf82c67486ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130929_5427_ATH_GEF_fc-Web.jpg" group-title="Fancode-Football", Athletic Club vs Getafe CF (LALIGA 2025-26)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/130929_english_hls_8469ad708c51045adfreeta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/130929_english_hls_8469ad708c51045adfreeta-di_h264/index.m3u8
@@ -204,16 +200,22 @@ https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mu
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137611_english_hls_4676ec988f80885ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137611_english_hls_4676ec988f80885ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 3 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
+https://dre63cd2n1um1.cloudfront.net/out/v1/e03795af48254d2a8cca485124998039/index.m3u8
+
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137726_5728_WCB_PR_fc-web.jpg" group-title="Fancode-Cricket", West Coast Blues vs Paarl Rocks (Boland T10, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137726_english_hls_582afcf82c67486ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130929_5427_ATH_GEF_fc-Web.jpg" group-title="Fancode-Football", Athletic Club vs Getafe CF (LALIGA 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130929_english_hls_8469ad708c51045adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136610_5655_HAZ_ANF_fc-web.jpg" group-title="Fancode-Football", Al-Hazem FC vs Al-Nassr FC (Roshn Saudi League 2025-2026)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136610_english_hls_b5578b183e34220ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137611_CASACARDS_APP.png" group-title="Fancode-Football", Granada vs Cádiz (LALIGA Hypermotion 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137611_english_hls_4676ec988f80885ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Practice 3 vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
+https://dre63cd2n1um1.cloudfront.net/out/v1/e03795af48254d2a8cca485124998039/index.m3u8
 
 
 #EXTM3U
@@ -221,19 +223,19 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493172_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg" group-title="Live",UFC 321 - Aspinall vs Gane - 25 Oct 2025 [ENG] - UFC 321 - Aspinall vs Gane - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761455081~acl=/*~id=69131232030941281369711087535297~hmac=044f49eb2338e2a22028b97659cc8ea42cb622dc65c90739cc57571ccb6f011f
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761458763~acl=/*~id=55728388141568100629434691947375~hmac=6036ee794a4638fd9258906fb142f51425342dded2a9cb59d51d2c159aa882e5
 #EXTINF:-1 tvg-id="1090493172_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg" group-title="Live",UFC 321 - Aspinall vs Gane - 25 Oct 2025 [HIN] - UFC 321 - Aspinall vs Gane - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761455081~acl=/*~id=69131232030941281369711087535297~hmac=044f49eb2338e2a22028b97659cc8ea42cb622dc65c90739cc57571ccb6f011f
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761458763~acl=/*~id=55728388141568100629434691947375~hmac=6036ee794a4638fd9258906fb142f51425342dded2a9cb59d51d2c159aa882e5
 #EXTINF:-1 tvg-id="1090493172_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg" group-title="Live",UFC 321 - Aspinall vs Gane - 25 Oct 2025 [TAM] - UFC 321 - Aspinall vs Gane - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761455081~acl=/*~id=69131232030941281369711087535297~hmac=044f49eb2338e2a22028b97659cc8ea42cb622dc65c90739cc57571ccb6f011f
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761458763~acl=/*~id=55728388141568100629434691947375~hmac=6036ee794a4638fd9258906fb142f51425342dded2a9cb59d51d2c159aa882e5
 #EXTINF:-1 tvg-id="1090493172_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010507/1761301122371158_UFC-321-_Aspinall-vs-Gane_landscape_thumb.jpg" group-title="Live",UFC 321 - Aspinall vs Gane - 25 Oct 2025 [TEL] - UFC 321 - Aspinall vs Gane - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761455081~acl=/*~id=69131232030941281369711087535297~hmac=044f49eb2338e2a22028b97659cc8ea42cb622dc65c90739cc57571ccb6f011f
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761458763~acl=/*~id=55728388141568100629434691947375~hmac=6036ee794a4638fd9258906fb142f51425342dded2a9cb59d51d2c159aa882e5
 #EXTINF:-1 tvg-id="1090493135_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759597862004218_bliga2526_MD8_Dortmund_vs_FC_Koln_3oct_landscape_thumb.jpg" group-title="Live",Borussia Dortmund vs FC Koln - MD 8 - 25 Oct 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761455081~acl=/*~id=69131232030941281369711087535297~hmac=044f49eb2338e2a22028b97659cc8ea42cb622dc65c90739cc57571ccb6f011f
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761458763~acl=/*~id=55728388141568100629434691947375~hmac=6036ee794a4638fd9258906fb142f51425342dded2a9cb59d51d2c159aa882e5
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -242,10 +244,6 @@ http://invalid.stream.url
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68f3a5a1e4b44a5c727eb7e9" tvg-name="West Coast Blues VS Wellington Wolves" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760798111814-597399316.webp" group-title="Live",West Coast Blues VS Wellington Wolves
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 #EXTINF:-1 tvg-id="68f8d6bd5e14fc3d2e06973f" tvg-name="Altrad VS Abu Dhabi Smashers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138362563-313420492.webp" group-title="Live",Altrad VS Abu Dhabi Smashers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
