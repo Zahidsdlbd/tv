@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-26 14:57:54 (BD Time)
+# Update on 2025-10-26 15:57:35 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -194,21 +194,28 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Race Day vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119265_english_hls_c4590052be10569ta-di_h264/index.m3u8
-https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/119265_english_hls_c4590052be10569ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA_1761462417407.jpg" group-title="Fancode-Cricket", USA vs Nepal (ICC CWC League 2, 2023-27)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137727_5728_OBI_WEW_fc-web.jpg" group-title="Fancode-Cricket", Wellington Wolves vs Overberg Indwe (Boland T10, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137727_english_hls_6ae99f06ae62153ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137727_english_hls_6ae99f06ae62153ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg" group-title="Fancode-Golf", Day 3 vs Sunrise Golf and Country Club (Wistron Ladies Open)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137369_english_hls_63fb486b6124590ta-di_h264/index.m3u8
+https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/137369_english_hls_63fb486b6124590ta-di_h264/index.m3u8
+
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia_Moto-GP_old_Match-card_1761019721479.jpg" group-title="Fancode-MotoGP", Race Day vs Petronas Sepang International Circuit (PETRONAS GRAND PRIX OF MALAYSIA)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/119265_english_hls_c4590052be10569ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA_1761462417407.jpg" group-title="Fancode-Cricket", USA vs Nepal (ICC CWC League 2, 2023-27)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137251_english_hls_2163dd33b687941ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137727_5728_OBI_WEW_fc-web.jpg" group-title="Fancode-Cricket", Wellington Wolves vs Overberg Indwe (Boland T10, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137727_english_hls_6ae99f06ae62153ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-old-match-card.jpg" group-title="Fancode-Golf", Day 3 vs Sunrise Golf and Country Club (Wistron Ladies Open)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137369_english_hls_63fb486b6124590ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -219,40 +226,28 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 http://invalid.stream.url
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/lvmcsccqcn3mhnksdltv" group-title="Live",NEP vs USA
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/nmrn4ubc9delotfqfxao" group-title="Live",NEP vs USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761469221~exp=1761469261~acl=/variant/v1blackout/vcg-01-d/*~hmac=717917ba4c155000b406888c92a5b55038764322adbf8f8a5a748b72eb4e3375&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761472816~exp=1761472856~acl=/variant/v1blackout/vcg-01-d/*~hmac=3df1f96005c052d7256c4f7be5c3b43d370498d451edf1cb197c98b9acc795f8&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761462172/prd/uguloi5codknpxqywupm" group-title="Live",IND vs BAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?hdnts=st=1761469222~exp=1761469262~acl=/variant/v1blackout/vcg-01-d/*~hmac=98828a9fdb706e072abe09b6ff05b4a864906dc17b350df3658de95e1453b312&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-03)/manifest.mpd?hdnts=st=1761472816~exp=1761472856~acl=/variant/v1blackout/vcg-01-d/*~hmac=3df1f96005c052d7256c4f7be5c3b43d370498d451edf1cb197c98b9acc795f8&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761461799/prd/xc7rxuim7zam8gz1udyd" group-title="Live",ENG vs NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761469222~exp=1761469262~acl=/variant/v1blackout/vcg-01-d/*~hmac=98828a9fdb706e072abe09b6ff05b4a864906dc17b350df3658de95e1453b312&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761472816~exp=1761472856~acl=/variant/v1blackout/vcg-01-d/*~hmac=3df1f96005c052d7256c4f7be5c3b43d370498d451edf1cb197c98b9acc795f8&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68d79846ddc71c71d25ff86f" tvg-name="DLSW DLIT VS HKCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959680502-368904152.webp" group-title="Live",DLSW DLIT VS HKCC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
-
-#EXTINF:-1 tvg-id="68d7987c0a167c5344225657" tvg-name="USRC Premier VS KCC Premier" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1758959735277-331943366.webp" group-title="Live",USRC Premier VS KCC Premier
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/WcfKsBNSD4hbwEGI22650717880205.m3u8
 
 #EXTINF:-1 tvg-id="68f4b4aaf77cf099f802bd85" tvg-name="Uganda Women VS Canada Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760867496760-706368713.webp" group-title="Live",Uganda Women VS Canada Women
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
-
-#EXTINF:-1 tvg-id="68f3a5d2f77cf099f802bd79" tvg-name="Overberg Indwe VS Wellington Wolves" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760798156919-881464203.webp" group-title="Live",Overberg Indwe VS Wellington Wolves
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 #EXTINF:-1 tvg-id="68f8d73c4e4aa6d729f6754e" tvg-name="ALS Superstars VS Abu Dhabi Smashers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138489587-280146789.webp" group-title="Live",ALS Superstars VS Abu Dhabi Smashers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
