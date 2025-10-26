@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-26 04:57:33 (BD Time)
+# Update on 2025-10-26 05:57:42 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,7 +192,7 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134006_5608_HB-W_BH-W_FC-Web.jpg" group-title="Fancode-Cricket", Hobart Hurricanes Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134006_5608_HB-W_BH-W_FC-Web.jpg" group-title="Fancode-Cricket", Brisbane Heat Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/134006_english_hls_38d3216eed49844ta-di_h264/index.m3u8
 https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mumbai/134006_english_hls_38d3216eed49844ta-di_h264/index.m3u8
 
@@ -206,7 +206,7 @@ https://allinonereborn.xyz/fcww/live.php?url=https://in-mc-fdlive.fancode.com/mu
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134006_5608_HB-W_BH-W_FC-Web.jpg" group-title="Fancode-Cricket", Hobart Hurricanes Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134006_5608_HB-W_BH-W_FC-Web.jpg" group-title="Fancode-Cricket", Brisbane Heat Women vs Hobart Hurricanes Women (T20 Spring Challenge, 2025)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134006_english_hls_38d3216eed49844ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134005_5608_PS-W_ACTM_FC-Web.jpg" group-title="Fancode-Cricket", Perth Scorchers Women vs ACT Meteors (T20 Spring Challenge, 2025)
@@ -215,13 +215,13 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bank-of-Utah-Championship_old.jpg" group-title="Fancode-Golf", Day 3 - World Feed vs Black Desert Resort (Bank of Utah Championship)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137319_english_hls_5434c0d5e445896ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-GRAN-PREMIO-DE-LA-CIUDAD-DE-MEXICO-2025_Sporty_Match_card_1760706258308.png" group-title="Fancode-Formula 1", Qualifying vs Mexico (F1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2025)
-https://d3020wacio4oip.cloudfront.net/out/v1/5f1e4ce46ef14c48bd4eb88034da38ca/index.m3u8
-
 
 #EXTM3U
 
 #EXTM3U
+#EXTINF:-1 tvg-id="1090492566_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362551346543_NZvsENG25_1ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",1st ODI - 26 Oct 2025 [ENG] - England Tour of New Zealand 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
+https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761483210~acl=/*~id=84127872921647020286613870920392~hmac=14d13ae8a4e3b18a332e49def895b503134c71c440d7fd9be3ea8fb735031728
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -230,14 +230,6 @@ http://invalid.stream.url
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68f8a390f77cf099f802bdab" tvg-name="Perth Scorchers Women VS ACT Meteors" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761125259494-450844114.webp" group-title="Live",Perth Scorchers Women VS ACT Meteors
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
-
-#EXTINF:-1 tvg-id="68f8a3c05e14fc3d2e06973b" tvg-name="Hobart Hurricanes Women VS Brisbane Heat Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761125309872-609055470.webp" group-title="Live",Hobart Hurricanes Women VS Brisbane Heat Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
 
 #EXTM3U
