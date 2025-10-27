@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-27 10:58:33 (BD Time)
+# Update on 2025-10-27 11:57:44 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -227,7 +227,7 @@ http://invalid.stream.url
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/1Muk6oybKN3buX8g22662788287241.m3u8
 
-#EXTINF:-1 tvg-id="68fccbca61050f4b1955c18d" tvg-name="Kaltim VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761397696402-493970713.webp" group-title="Live",Kaltim VS Gianyar
+#EXTINF:-1 tvg-id="68fccc1e61050f4b1955c18e" tvg-name="Garuda Gentlemen VS Westden CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761397787212-431714798.webp" group-title="Live",Garuda Gentlemen VS Westden CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/qW63z3FWzjzXIh2N22563022711650.m3u8
 
