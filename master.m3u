@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-27 15:58:04 (BD Time)
+# Update on 2025-10-27 16:57:26 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -194,15 +194,22 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137862_5740_TPT_PTW_FC-Web.jpg" group-title="Fancode-Cricket", The Pulwama Titans vs Patnitop Warriors (Indian Heaven Premier League, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137862_english_hls_181a838eb387125ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137862_english_hls_181a838eb387125ta-di_h264/index.m3u8
+
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137862_5740_TPT_PTW_FC-Web.jpg" group-title="Fancode-Cricket", The Pulwama Titans vs Patnitop Warriors (Indian Heaven Premier League, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137862_english_hls_181a838eb387125ta-di_h264/index.m3u8
+
 
 #EXTM3U
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493177_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg" group-title="Live",Round 1 - 27 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761602891~acl=/*~id=69781696585678889747016780393246~hmac=3c32e38e03e26cbb7f0deee6908d0c83c079f20f2db6d17f8d7332cf57ae4ff8
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761606553~acl=/*~id=55302665803539303947687734841313~hmac=b7a8c40853aca350305933d2daa89508ef3c430aae34612cd51da68b444d3c83
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
