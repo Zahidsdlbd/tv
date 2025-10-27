@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-27 21:57:48 (BD Time)
+# Update on 2025-10-27 22:58:39 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -209,26 +209,21 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493177_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg" group-title="Live",Round 1 - 27 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761624286~acl=/*~id=98105350902704743859551171561789~hmac=f0dc1060f3561a91c37d2ce8854d43b2d11ae9dff69f32be2bad58a21dab6c10
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761627346~acl=/*~id=97933342742881808280001445364136~hmac=d5d24fb03b9841ff4ca1500394ef8f010471e572d21baccef3b9ad5730b81d78
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/za8e8gitrolh4ypiuibr" group-title="Live",BAN vs WI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1761580890~exp=1761580930~acl=/variant/v1blackout/vcg-01-d/*~hmac=a1120d23ce2ad361980eb7d5652be13d1d7cf2054ebdc2e8443ba12fdf07aa39&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="68eca97f5e14fc3d2e069707" tvg-name="Bangladesh VS West Indies" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760340347248-561532346.webp" group-title="Live",Bangladesh VS West Indies
+#EXTINF:-1 tvg-id="68f8d7fdf77cf099f802bdad" tvg-name="ALS Superstars VS Lexington Shotguns" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138684496-676867443.webp" group-title="Live",ALS Superstars VS Lexington Shotguns
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/s60pMVtEyH73a8Im22027794991194.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
-#EXTINF:-1 tvg-id="68ff27110f2e708c575bcb5f" tvg-name="Overberg Indwe VS Paarl Rocks" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761552139799-870948241.webp" group-title="Live",Overberg Indwe VS Paarl Rocks
+#EXTINF:-1 tvg-id="68ff274da62b55864def6e58" tvg-name="Stellenbosch Kings VS Paarl Rapids" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761552200111-666718259.webp" group-title="Live",Stellenbosch Kings VS Paarl Rapids
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
