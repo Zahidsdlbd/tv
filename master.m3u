@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-29 10:58:09 (BD Time)
+# Update on 2025-10-29 11:57:46 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -213,10 +213,6 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/134012_CASACARDS_APP.png" group-title="Fancode-Cricket", Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
@@ -235,9 +231,6 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/134012_CASACARDS_APP.png" group-title="Fancode-Cricket", Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
 
@@ -247,7 +240,7 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492565_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362662780543_NZvsENG25_2ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",2nd ODI - 29 Oct 2025 [ENG] - England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761757350~acl=/*~id=22004987886917449332909770278476~hmac=562b0c84bf5bbc0ec251a16d6d1d619b88378b042dc91bb7cc7485281ce94930
+https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761761621~acl=/*~id=46797269267254250900747797890755~hmac=64597476f7664641934ff53d2c609a1ac67cddbb84c81f0922629f8421a0eb66
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -261,13 +254,13 @@ http://invalid.stream.url
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
-#EXTINF:-1 tvg-id="68ff700aa62b55864def6e5f" tvg-name="Brisbane Heat Women VS Melbourne Renegades Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761570825898-211093203.webp" group-title="Live",Brisbane Heat Women VS Melbourne Renegades Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
 #EXTINF:-1 tvg-id="68da8d8550dd3d4150aa55c7" tvg-name="Fairfirst Insurance VS CDB-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760522401445-751558792.webp" group-title="Live",Fairfirst Insurance VS CDB-A
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
+#EXTINF:-1 tvg-id="6901a05ea62b55864def6e73" tvg-name="Kaltim VS Gianyar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761714264415-474093360.webp" group-title="Live",Kaltim VS Gianyar
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/qW63z3FWzjzXIh2N22563022711650.m3u8
 
 
 #EXTM3U
