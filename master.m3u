@@ -3,12 +3,12 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-29 11:57:46 (BD Time)
+# Update on 2025-10-29 12:59:31 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1759314297-Promo-thum-1280.jpg", LIVE | India vs West Indies, 1st Test
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg", T Sports Live 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (1)
@@ -213,26 +213,23 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Srinagar Sultan (Indian Heaven Premier League, 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761741115~acl=/*~id=17642644127661702981991194729298~hmac=5e05797633e2dc7bee6cdc422aec540762784f729b4a1210855ff19e3a972915
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg" group-title="Fancode-Cricket", Victoria vs Tasmania (Sheffield Shield, 2025-26)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c819928_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134020_5609_QUN_NSW_fc-Web.jpg" group-title="Fancode-Cricket", New South Wales vs Queensland (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Srinagar Sultan (Indian Heaven Premier League, 2025)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1761741115~acl=/*~id=17642644127661702981991194729298~hmac=5e05797633e2dc7bee6cdc422aec540762784f729b4a1210855ff19e3a972915
 
 
 #EXTM3U
@@ -240,7 +237,7 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492565_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362662780543_NZvsENG25_2ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",2nd ODI - 29 Oct 2025 [ENG] - England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761761621~acl=/*~id=46797269267254250900747797890755~hmac=64597476f7664641934ff53d2c609a1ac67cddbb84c81f0922629f8421a0eb66
+https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761764675~acl=/*~id=21809585843264223459248760039210~hmac=cd2ba03c00f2913c534fc3fac503e421e3b7b91f13e1e93771b61501d30596a6
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
