@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-29 10:14:26 (BD Time)
+# Update on 2025-10-29 10:58:09 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -209,13 +209,17 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/134012_CASACARDS_APP.png" group-title="Fancode-Cricket", Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -228,11 +232,14 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134020_5609_QUN_NSW_fc-Web.jpg" group-title="Fancode-Cricket", New South Wales vs Queensland (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b44885_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/134012_CASACARDS_APP.png" group-title="Fancode-Cricket", Brisbane Heat Women vs Melbourne Renegades Women (T20 Spring Challenge, 2025)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134012_english_hls_a1747afb4041257_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc165866_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137865_5740_GUR_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Gulmarg Royal vs Sri Nagar Sultan (Indian Heaven Premier League, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137865_english_hls_9afd0d687b29847_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -240,7 +247,7 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492565_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362662780543_NZvsENG25_2ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",2nd ODI - 29 Oct 2025 [ENG] - England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761753081~acl=/*~id=29190295142820927907381619636955~hmac=78d6a9c0a3ab3161bfa8ace6528d3fda05d888c00cb7018dc9194bb59d1a1cbf
+https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1761757350~acl=/*~id=22004987886917449332909770278476~hmac=562b0c84bf5bbc0ec251a16d6d1d619b88378b042dc91bb7cc7485281ce94930
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
