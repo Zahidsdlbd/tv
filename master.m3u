@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-29 15:57:30 (BD Time)
+# Update on 2025-10-29 16:57:36 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -213,7 +213,7 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493179_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="Live",Round 2 - 29 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761775648~acl=/*~id=73820359032062787084410596703550~hmac=d7fdd0634e5cbd535f7371e86d8d7304161d5926d33b3b3bfa4b9905f2e96fca
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761778697~acl=/*~id=21203532955600043526852959219775~hmac=3ced5e6acc3a6aebc2ec50ab160a16034f58beec1d3ac52b7be6614e7018e171
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
@@ -223,18 +223,10 @@ http://invalid.stream.url
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761732085~exp=1761732125~acl=/variant/v1blackout/vcg-01-d/*~hmac=5058f51e50a9e87df18e3618352d2b956fe4fd63091bf83a42bca66de8777a55&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761734222~exp=1761734262~acl=/variant/v1blackout/vcg-01-d/*~hmac=d7f5cd3b932023ca5dbd901cf86bdaa75439be44cf973840611ce99f68c888d2&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68de80049f5a848ba39f3356" tvg-name="Western Australia VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412226526-538406327.webp" group-title="Live",Western Australia VS South Australia
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
-
-#EXTINF:-1 tvg-id="6901a0a2a62b55864def6e74" tvg-name="Garuda Gentlemen VS Westden CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761714331357-324218046.webp" group-title="Live",Garuda Gentlemen VS Westden CC
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/qW63z3FWzjzXIh2N22563022711650.m3u8
 
 
 #EXTM3U
