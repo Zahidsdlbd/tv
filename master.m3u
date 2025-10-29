@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-29 21:58:14 (BD Time)
+# Update on 2025-10-29 23:00:49 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -12,16 +12,14 @@
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (1)
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
 http://116.204.149.16/t_sports/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (3)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
 https://tvsen5.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (4)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (3)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (5)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (4)
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (6)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (5)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTM3U
@@ -194,9 +192,9 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" group-title="Fancode-Cricket", West Indies vs Bangladesh (West Indies tour of Bangladesh, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137704_english_hls_e4a280240634404_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137704_english_hls_e4a280240634404_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136939_5570_PDB_LEV_Fc-Web.jpg" group-title="Fancode-Football", SC Paderborn 07 vs Bayer 04 Leverkusen (DFB Pokal 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136939_english_hls_20f2e900f151066_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136939_english_hls_20f2e900f151066_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136111_5648_KHA_ASC_fc-Web_1758118382889.jpg" group-title="Fancode-Football", Khaldiya vs Al Ahli (QAT) (AFC Champions League Two 2025-26)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136111_english_hls_4a95597bba72393_1ta-di_h264/index.m3u8
@@ -204,9 +202,6 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-vs-West-Indies-T20I_old-(1).jpg" group-title="Fancode-Cricket", West Indies vs Bangladesh (West Indies tour of Bangladesh, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137704_english_hls_e4a280240634404_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136111_5648_KHA_ASC_fc-Web_1758118382889.jpg" group-title="Fancode-Football", Khaldiya vs Al Ahli (QAT) (AFC Champions League Two 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136111_english_hls_4a95597bba72393_1ta-di_h264/index.m3u8
 
@@ -216,17 +211,12 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493179_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551536332169_ATP_Rolex_Paris25_round2_27oct_landscape_thumb.jpg" group-title="Live",Round 2 - 29 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761797017~acl=/*~id=25986789332000723878514643739289~hmac=84d1516407d31ef057fdbdedb8019e47031420a7b5d37b2bbb4ced35601f1cc7
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761800684~acl=/*~id=92862345720831126652748894357141~hmac=dbf15b56396ac7ccbf2233121a86756d0c61c0ea3ab68dd62eff18888fbb2d11
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/
 http://invalid.stream.url
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761726856/prd/vuyqpezt2aspd4tw465n" group-title="Live",ENG vs SA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761754260~exp=1761754300~acl=/variant/v1blackout/vcg-01-d/*~hmac=cda42466a2a8df00ad1ab1cb8f3f7635601c2389d55c1144575062dd23d97083&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
