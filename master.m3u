@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-30 19:57:38 (BD Time)
+# Update on 2025-10-30 20:57:20 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,10 +192,6 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137868_5740_LHH_PTW_FC-Web.jpg" group-title="Fancode-Cricket", Patnitop Warriors vs Ladakh Heros (Indian Heaven Premier League, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137868_english_hls_803171d45671071_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137868_english_hls_803171d45671071_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137868_5740_LHH_PTW_FC-Web.jpg" group-title="Fancode-Cricket", Patnitop Warriors vs Ladakh Heros (Indian Heaven Premier League, 2025)
@@ -207,7 +203,7 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493180_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg" group-title="Live",Round 3 - 30 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761876500~acl=/*~id=22108325694392685115450494107635~hmac=4905e4821850227fddb9f606923e54b952934371a64180d60de42af7fa5f6bbd
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761880164~acl=/*~id=14289646074218600371485194326567~hmac=b0fb726dd75ec3977108ca468173b85e4f57653ec614a40189c45be430aa6a6c
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
@@ -217,14 +213,10 @@ http://invalid.stream.url
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1761861693~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=60aeca6bc4148200813cd3a98758c23a3db4c882ed4ab4d15e7dbaee86680573/manifest.mpd
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1761865775~acl=/variant/v1blackout/vcg-01-d/*~data=hdntl~hmac=2b89b23d42a47cacb78c67394cdab906506daf715a5fd1a37934f02e9e389049/manifest.mpd
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="6902f918a62b55864def6e90" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761803843478-146769743.webp" group-title="Live",United Arab Emirates VS Nepal
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
 #EXTINF:-1 tvg-id="68ef714ae4b44a5c727eb7b7" tvg-name="Maliban Biscuits VS Hayleys-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760522564919-931416978.webp" group-title="Live",Maliban Biscuits VS Hayleys-A
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
