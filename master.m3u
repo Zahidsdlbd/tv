@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-30 13:57:24 (BD Time)
+# Update on 2025-10-30 14:58:04 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -217,11 +217,16 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 http://invalid.stream.url
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761812334/prd/x9rch2lb2xytdyf0e5g2" group-title="Live",IND vs AUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761814881~exp=1761814921~acl=/variant/v1blackout/vcg-01-d/*~hmac=0f7b75b83d5659985a5f50768a4304a595aec7eeb3ed7eca04c8d544b1cbffcf&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/umxlvvrz1oitbc177aen" group-title="Live",NEP vs UAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761811932~exp=1761811972~acl=/variant/v1blackout/vcg-01-d/*~hmac=5dcf6af5bc20478695f5267a6b6d0de008896c5709087dba3ecafd7170dd4229&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761814881~exp=1761814921~acl=/variant/v1blackout/vcg-01-d/*~hmac=0f7b75b83d5659985a5f50768a4304a595aec7eeb3ed7eca04c8d544b1cbffcf&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
@@ -230,13 +235,13 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
-#EXTINF:-1 tvg-id="68f24b715e14fc3d2e06971c" tvg-name="George Stuwart Health VS Power Hand Plantation" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760709486903-522585989.webp" group-title="Live",George Stuwart Health VS Power Hand Plantation
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
-
 #EXTINF:-1 tvg-id="6902f918a62b55864def6e90" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761803843478-146769743.webp" group-title="Live",United Arab Emirates VS Nepal
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="68ef714ae4b44a5c727eb7b7" tvg-name="Maliban Biscuits VS Hayleys-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760522564919-931416978.webp" group-title="Live",Maliban Biscuits VS Hayleys-A
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
 
 
 #EXTM3U
