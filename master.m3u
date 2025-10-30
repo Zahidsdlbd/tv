@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-30 22:59:34 (BD Time)
+# Update on 2025-10-30 23:57:38 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -200,24 +200,15 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493180_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg" group-title="Live",Round 3 - 30 Oct 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761886852~acl=/*~id=76567720819597103780034224233136~hmac=7d1fda04c6d147b4ba2389ecb23f79c98db7ee1b8d9a7d7f6712e6db7f79cad8
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761891146~acl=/*~id=32133951702025900388832781052832~hmac=072997bb2912aef83780792df5cf1d583d903933894ac701278111e21484f0ee
 #EXTINF:-1 tvg-id="1090492070_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010049/1760026367682373_AsiaCup_Glory_24x7_Landscape_thumbj_9OCT_re1.jpg" group-title="Live",India's Asia Cup Glory 24x7 [ENG] - Asia Cup 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
 http://invalid.stream.url
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1761812334/prd/x9rch2lb2xytdyf0e5g2" group-title="Live",IND vs AUS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1761844108~exp=1761844148~acl=/variant/v1blackout/vcg-01-d/*~hmac=54abcc7e248c22f5e47575a2680011ca78ecd39aefd8f2af97b204a7f4c659be&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68ef714ae4b44a5c727eb7b7" tvg-name="Maliban Biscuits VS Hayleys-A" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760522564919-931416978.webp" group-title="Live",Maliban Biscuits VS Hayleys-A
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/0O1coRCL4fwXmHCx21969824298479.m3u8
 
 #EXTINF:-1 tvg-id="68f8d8a15e14fc3d2e069741" tvg-name="Lexington Shotguns VS Abu Dhabi Smashers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761138848296-265185461.webp" group-title="Live",Lexington Shotguns VS Abu Dhabi Smashers
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
