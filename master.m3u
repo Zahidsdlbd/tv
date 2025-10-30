@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-31 03:57:28 (BD Time)
+# Update on 2025-10-31 04:57:59 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -206,6 +206,14 @@ http://invalid.stream.url
 #EXTM3U
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="68de7f8cc167956f9cb7b9f5" tvg-name="Victoria VS Tasmania Tigers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412105107-60363694.webp" group-title="Live",Victoria VS Tasmania Tigers
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
+
+#EXTINF:-1 tvg-id="68de7fcfc167956f9cb7b9f6" tvg-name="Queensland Bulls VS New South Wales" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412172842-747735837.webp" group-title="Live",Queensland Bulls VS New South Wales
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
 
 #EXTM3U
