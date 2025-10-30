@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-30 10:57:41 (BD Time)
+# Update on 2025-10-30 11:57:35 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -192,6 +192,10 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" group-title="Fancode-Cricket", Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg" group-title="Fancode-Cricket", Victoria vs Tasmania (Sheffield Shield, 2025-26)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c83091_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c83091_1ta-di_h264/index.m3u8
@@ -208,8 +212,15 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134013_english_hls_93ef15a77b93519_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/134013_english_hls_93ef15a77b93519_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137867_5740_URP_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Uri Panthers vs Srinagar Sultan (Indian Heaven Premier League, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137867_english_hls_6c8904b73c91456_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137867_english_hls_6c8904b73c91456_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" group-title="Fancode-Cricket", Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137253_english_hls_6c5a8b352529608_1ta-di_h264/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134021_5609_VCT_TAS_fc-Web.jpg" group-title="Fancode-Cricket", Victoria vs Tasmania (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134021_english_hls_d2062975c83091_1ta-di_h264/index.m3u8
 
@@ -219,8 +230,8 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc142539_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134006_5608_HB-W_BH-W_FC-Web.jpg" group-title="Fancode-Cricket", Hobart Hurricanes Women vs Brisbane Heat Women (T20 Spring Challenge, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134013_english_hls_93ef15a77b93519_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137867_5740_URP_SNS_FC-Web.jpg" group-title="Fancode-Cricket", Uri Panthers vs Srinagar Sultan (Indian Heaven Premier League, 2025)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137867_english_hls_6c8904b73c91456_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -231,6 +242,11 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 http://invalid.stream.url
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/umxlvvrz1oitbc177aen" group-title="Live",NEP vs UAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1761804805~exp=1761804845~acl=/variant/v1blackout/vcg-01-d/*~hmac=845fdb10e1fb31a92213fc71d633a4447d3b90b07f1b66bf9ea7bd444807f8a2&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
@@ -239,13 +255,13 @@ http://invalid.stream.url
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
-#EXTINF:-1 tvg-id="6901bf279195d469b55aacb8" tvg-name="Hobart Hurricanes Women VS Brisbane Heat Women" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761722147284-560294560.webp" group-title="Live",Hobart Hurricanes Women VS Brisbane Heat Women
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/MJxGlKjrwgy3NkQG21948631766693.m3u8
-
 #EXTINF:-1 tvg-id="68f24b715e14fc3d2e06971c" tvg-name="George Stuwart Health VS Power Hand Plantation" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760709486903-522585989.webp" group-title="Live",George Stuwart Health VS Power Hand Plantation
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="6902f918a62b55864def6e90" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761803843478-146769743.webp" group-title="Live",United Arab Emirates VS Nepal
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
 
 #EXTM3U
