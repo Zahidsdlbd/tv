@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-10-31 05:57:26 (BD Time)
+# Update on 2025-10-31 07:57:56 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -208,6 +208,9 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134020_5609_QUN_NSW_fc-Web.jpg" group-title="Fancode-Cricket", New South Wales vs Queensland (Sheffield Shield, 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134020_english_hls_35f90a4a6b71420_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/134022_5609_WAU_SAU_fc-Web.jpg" group-title="Fancode-Cricket", South Australia vs Western Australia (Sheffield Shield, 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/134022_english_hls_7444b7efc145107_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 
@@ -220,6 +223,10 @@ http://invalid.stream.url
 #EXTM3U
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="68de80049f5a848ba39f3356" tvg-name="Western Australia VS South Australia" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1759412226526-538406327.webp" group-title="Live",Western Australia VS South Australia
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/2MHmO1LSxjctqc0X21998427257015.m3u8
 
 
 #EXTM3U
