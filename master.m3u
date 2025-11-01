@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-01 12:57:34 (BD Time)
+# Update on 2025-11-01 13:57:38 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -199,10 +199,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137254_english_hls_ccca4ed3df97401_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137254_english_hls_ccca4ed3df97401_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png" group-title="Fancode-Horse Racing", Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
@@ -211,19 +207,16 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/01_Nepal-vs-USA.jpg" group-title="Fancode-Cricket", Nepal vs USA (ICC CWC League 2, 2023-27)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137254_english_hls_ccca4ed3df97401_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png" group-title="Fancode-Horse Racing", Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492564_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362695364543_NZvsENG25_3ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",3rd ODI - 1 Nov 2025 [ENG] - England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762023954~acl=/*~id=45474730168311750442760529485903~hmac=6ab0dfadac552858ec1ede1a6087bc5b8d3a119441351469d3f566025cee5f75
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762027611~acl=/*~id=53652413053128713153195537558471~hmac=144aa807d19e3e5982f505281afb2b5e7e6bd4ca7f7fbba898d7d002fb3b57ad
 #EXTINF:-1 tvg-id="1090493581_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824466986210_Asian_tour_LINK_Hong_Kong_Open_day3_30oct_landscape_thumb.jpg" group-title="Live",LINK Hong Kong Open - Day 3 - 1 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762023954~acl=/*~id=45474730168311750442760529485903~hmac=6ab0dfadac552858ec1ede1a6087bc5b8d3a119441351469d3f566025cee5f75
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762027611~acl=/*~id=53652413053128713153195537558471~hmac=144aa807d19e3e5982f505281afb2b5e7e6bd4ca7f7fbba898d7d002fb3b57ad
 
 #EXTM3U
 #EXTM3U
