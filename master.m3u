@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-01 08:03:56 (BD Time)
+# Update on 2025-11-01 09:59:06 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -195,10 +195,6 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1762000301~acl=/*~id=45920137968863618024666318893790~hmac=c6c642e8218fc1a8b5f741c55b3687b42426c7bea23c4d86a9a3697be181ab23
 
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137812_CASACARDS_APP.png" group-title="Fancode-Baseball", Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137812_english_hls_04de2ac93f23446_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137812_english_hls_04de2ac93f23446_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png" group-title="Fancode-Horse Racing", Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8
@@ -207,9 +203,6 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/England-Tour-of-New-Zealand-2025_Old_match-card-(1).jpg" group-title="Fancode-Cricket", England vs New Zealand (England tour of New Zealand, 2025)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-EVSN/master.m3u8?hdnea=exp=1762000301~acl=/*~id=45920137968863618024666318893790~hmac=c6c642e8218fc1a8b5f741c55b3687b42426c7bea23c4d86a9a3697be181ab23
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137812_CASACARDS_APP.png" group-title="Fancode-Baseball", Toronto Blue Jays vs Los Angeles Dodgers (Major League Baseball, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137812_english_hls_04de2ac93f23446_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Melbourne-Cup-Carnival-old-match-card.png" group-title="Fancode-Horse Racing", Day 1 vs Flemington Racecourse (Melbourne Cup Carnival 2025)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137282_english_hls_749d6c053152588_1ta-di_h264/index.m3u8
@@ -220,7 +213,10 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090492564_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010526/1761362695364543_NZvsENG25_3ODI_24oct_Landscape_thumb_Live.jpg" group-title="Live",3rd ODI - 1 Nov 2025 [ENG] - England Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762006883~acl=/*~id=35470601897894736024940497425631~hmac=e69b5a43ae94459795c8a9c906373ceca653bdcde4b3ceb34f0b17dbd84f0b2e
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762012968~acl=/*~id=04192586716078076572520392324576~hmac=399a1baaf3dd6a8dc1dead4c27ee25dbadeae7ee4c38adb07b6943c132d9b23d
+#EXTINF:-1 tvg-id="1090493581_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824466986210_Asian_tour_LINK_Hong_Kong_Open_day3_30oct_landscape_thumb.jpg" group-title="Live",LINK Hong Kong Open - Day 3 - 1 Nov 2025 [ENG] - Asian Tour 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762012968~acl=/*~id=04192586716078076572520392324576~hmac=399a1baaf3dd6a8dc1dead4c27ee25dbadeae7ee4c38adb07b6943c132d9b23d
 
 #EXTM3U
 #EXTM3U
