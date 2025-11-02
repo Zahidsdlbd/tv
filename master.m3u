@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-02 19:57:31 (BD Time)
+# Update on 2025-11-02 20:57:33 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -198,6 +198,10 @@ https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.co
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130936_english_hls_9570eea17b32013_1adfreeta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130936_english_hls_9570eea17b32013_1adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130939_5427_ALA_ESL_fc-Web_1761898436652.jpg" group-title="Fancode-Football", Deportivo Alaves vs RCD Espanyol (LALIGA 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130939_english_hls_197630271f70671_1adfreeta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130939_english_hls_197630271f70671_1adfreeta-di_h264/index.m3u8
+
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg" group-title="Fancode-Cricket", Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)
@@ -206,28 +210,31 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130936_5427_LE_CEV_fc-Web_1761898429843.jpg" group-title="Fancode-Football", Levante vs RC Celta (LALIGA 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130936_english_hls_9570eea17b32013_1adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130939_5427_ALA_ESL_fc-Web_1761898436652.jpg" group-title="Fancode-Football", Deportivo Alaves vs RCD Espanyol (LALIGA 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130939_english_hls_197630271f70671_1adfreeta-di_h264/index.m3u8
+
 
 #EXTM3U
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493654_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010762/1762039023142610_ATP_rolex_Paris25_Final_-AugerAliassime_vs_Sinner_live_landscapet_thumb.jpg" group-title="Live",Auger-Aliassime vs Sinner - Singles Final - 2 Nov 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762137289~acl=/*~id=23684580584531595472795030434406~hmac=f5df875374b1e8f8ce70bef63788e4ae78fb4ed0d93af6bbce48dd074d12dac9
 #EXTINF:-1 tvg-id="1090493536_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010660/1761823253389395_bliga2526_MD9_FC-Koln-vs-Hamburg-SV_30oct_landscape_thumb.jpg" group-title="Live",FC Koln vs Hamburger SV - MD 9 - 2 Nov 2025 [ENG] - Bundesliga 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762135461~acl=/*~id=13336938017137572896660484919888~hmac=fa55137b61f465376536e5cfb3a91842ca3b6f67aa1445004219f97aeb0cc3b5
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762137289~acl=/*~id=23684580584531595472795030434406~hmac=f5df875374b1e8f8ce70bef63788e4ae78fb4ed0d93af6bbce48dd074d12dac9
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/z8mqtr04gtxpdwkfamii" group-title="Live",IND vs SA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762092067~exp=1762092107~acl=/variant/v1blackout/vcg-01-d/*~hmac=38fbdf690ae1efd73c54664b63b0345d8d71d703968017c98f420bdcce0f5c62&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762095684~exp=1762095724~acl=/variant/v1blackout/vcg-01-d/*~hmac=b3fb3fcdfb881c5be18f41a9518019e29670a1b71e8519a057d5a7a8d2939db8&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/qcv8dpwy6ojzxow8yosc" group-title="Live",ZIM vs AFG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762092067~exp=1762092107~acl=/variant/v1blackout/vcg-01-d/*~hmac=38fbdf690ae1efd73c54664b63b0345d8d71d703968017c98f420bdcce0f5c62&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762095684~exp=1762095724~acl=/variant/v1blackout/vcg-01-d/*~hmac=b3fb3fcdfb881c5be18f41a9518019e29670a1b71e8519a057d5a7a8d2939db8&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
