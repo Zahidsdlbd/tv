@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-02 11:57:47 (BD Time)
+# Update on 2025-11-02 12:57:30 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -190,22 +190,15 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137873_5740_SNS_JAL_FC-Web.jpg" group-title="Fancode-Cricket", Srinagar Sultan vs Jammu Lions (Indian Heaven Premier League, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137873_english_hls_b5172700749047_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137873_english_hls_b5172700749047_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137873_5740_SNS_JAL_FC-Web.jpg" group-title="Fancode-Cricket", Srinagar Sultan vs Jammu Lions (Indian Heaven Premier League, 2025)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137873_english_hls_b5172700749047_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493653_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824476451210_Asian_tour_LINK_Hong_Kong_Open_day4_30oct_landscape_thumb.jpg" group-title="Live",LINK Hong Kong Open - Day 4 - 2 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762106848~acl=/*~id=08365424570294539848570323621873~hmac=177a9c841a4e6587fbfd93ba175ed2de407d8d0f329ac4486fa7667dd54de226
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762110503~acl=/*~id=67382821684723360078356038774340~hmac=2e3ac32bd6deca0b414e981cfd8b6ed3cf64eb5054e7583c344e7385e9e1b572
 
 #EXTM3U
 #EXTM3U
@@ -215,6 +208,10 @@ https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew
 #EXTINF:-1 tvg-id="6905bd90654186068ac41380" tvg-name="Lexington Shotguns VS Volcano Sports Academy" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761983881207-482548064.webp" group-title="Live",Lexington Shotguns VS Volcano Sports Academy
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
+
+#EXTINF:-1 tvg-id="68c030345eff1aae0fc91e98" tvg-name="Tamil Lions CC VS Spartans CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425713861-487499130.webp" group-title="Live",Tamil Lions CC VS Spartans CC
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 
 
 #EXTM3U
