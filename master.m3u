@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-02 12:57:30 (BD Time)
+# Update on 2025-11-02 13:57:34 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -198,20 +198,20 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493653_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824476451210_Asian_tour_LINK_Hong_Kong_Open_day4_30oct_landscape_thumb.jpg" group-title="Live",LINK Hong Kong Open - Day 4 - 2 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762110503~acl=/*~id=67382821684723360078356038774340~hmac=2e3ac32bd6deca0b414e981cfd8b6ed3cf64eb5054e7583c344e7385e9e1b572
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762113548~acl=/*~id=96829113343314210785996680862427~hmac=f1331437801373cb65c9c5d867e2a8c8301d90a2116cbcde2053451fb64ffddc
 
 #EXTM3U
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="6905bd90654186068ac41380" tvg-name="Lexington Shotguns VS Volcano Sports Academy" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761983881207-482548064.webp" group-title="Live",Lexington Shotguns VS Volcano Sports Academy
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
 #EXTINF:-1 tvg-id="68c030345eff1aae0fc91e98" tvg-name="Tamil Lions CC VS Spartans CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425713861-487499130.webp" group-title="Live",Tamil Lions CC VS Spartans CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
+
+#EXTINF:-1 tvg-id="68c030645eff1aae0fc91e99" tvg-name="Right Guards CC VS IPRC Kigali" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425762562-43341773.webp" group-title="Live",Right Guards CC VS IPRC Kigali
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
 
 
 #EXTM3U
