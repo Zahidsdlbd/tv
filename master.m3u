@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-03 03:57:53 (BD Time)
+# Update on 2025-11-03 04:57:43 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -470,21 +470,14 @@ https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Cha
 https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130932_5427_RB_MRC_fc-Web_1761898446686.jpg" group-title="Fancode-Football", Real Betis vs RCD Mallorca (LALIGA 2025-26)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137617_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133940_5606_NSW_QUN_fc-web.jpg" group-title="Fancode-Cricket", Queensland vs New South Wales (One Day Cup, 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/133940_english_hls_876bf234804130_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/133940_english_hls_876bf234804130_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130932_5427_RB_MRC_fc-Web_1761898446686.jpg" group-title="Fancode-Football", Real Betis vs RCD Mallorca (LALIGA 2025-26)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137617_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/133940_5606_NSW_QUN_fc-web.jpg" group-title="Fancode-Cricket", Queensland vs New South Wales (One Day Cup, 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/133940_english_hls_876bf234804130_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -495,22 +488,22 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="6905be82654186068ac41381" tvg-name="Seven District VS Abu Dhabi Smashers" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761984126595-4688660.webp" group-title="Live",Seven District VS Abu Dhabi Smashers
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
 #EXTINF:-1 tvg-id="68fa2ba2f77cf099f802bdc4" tvg-name="Otago Volts VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp" group-title="Live",Otago Volts VS Central Stags
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
+#EXTINF:-1 tvg-id="68fa2bd04e4aa6d729f67557" tvg-name="Northern District VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp" group-title="Live",Northern District VS Wellington Firebirds
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+
 #EXTINF:-1 tvg-id="68fa2d954e4aa6d729f67558" tvg-name="Canterbury Kings VS Auckland Aces" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp" group-title="Live",Canterbury Kings VS Auckland Aces
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
 
-#EXTINF:-1 tvg-id="68fa2bd04e4aa6d729f67557" tvg-name="Northern District VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp" group-title="Live",Northern District VS Wellington Firebirds
+#EXTINF:-1 tvg-id="68c035c039d6e519355af0ba" tvg-name="New South Wales VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757427128538-8334608.webp" group-title="Live",New South Wales VS Queensland Bulls
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
 
 
 #EXTM3U
