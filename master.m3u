@@ -196,11 +196,13 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1090493653_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824476451210_Asian_tour_LINK_Hong_Kong_Open_day4_30oct_landscape_thumb.jpg" group-title="Live",LINK Hong Kong Open - Day 4 - 2 Nov 2025 [ENG] - Asian Tour 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762113548~acl=/*~id=96829113343314210785996680862427~hmac=f1331437801373cb65c9c5d867e2a8c8301d90a2116cbcde2053451fb64ffddc
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1762066046/prd/kcocnp2ceibmpk6fpvqz" group-title="Live",IND vs SA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762073083~exp=1762073123~acl=/variant/v1blackout/vcg-01-d/*~hmac=b8025c72e5570a4b9f1d042124e5e51d8c894f57945542289475a62e110809ba&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
@@ -212,6 +214,10 @@ https://cdn.styxsports.live/LiveApp/streams/3Nzm4jj2HTKQ54R41326115614427.m3u8
 #EXTINF:-1 tvg-id="68c030645eff1aae0fc91e99" tvg-name="Right Guards CC VS IPRC Kigali" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425762562-43341773.webp" group-title="Live",Right Guards CC VS IPRC Kigali
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/6S5lRLCxmU27XNfI1318680693595.m3u8
+
+#EXTINF:-1 tvg-id="6907139d30593570d7fde2ee" tvg-name="Karwan VS Lexington Shotguns" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762071449514-33511399.webp" group-title="Live",Karwan VS Lexington Shotguns
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
 
 #EXTM3U
