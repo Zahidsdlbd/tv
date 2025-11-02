@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-03 00:57:36 (BD Time)
+# Update on 2025-11-03 01:57:35 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -470,26 +470,31 @@ https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Cha
 https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130931_5427_BAR_ELC_fc-Web_1761898441649.jpg" group-title="Fancode-Football", FC Barcelona vs Elche CF (LALIGA 2025-26)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130931_english_hls_fa62e545b017177_1adfreeta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130931_english_hls_fa62e545b017177_1adfreeta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130932_5427_RB_MRC_fc-Web_1761898446686.jpg" group-title="Fancode-Football", Real Betis vs RCD Mallorca (LALIGA 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137617_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130931_5427_BAR_ELC_fc-Web_1761898441649.jpg" group-title="Fancode-Football", FC Barcelona vs Elche CF (LALIGA 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130931_english_hls_fa62e545b017177_1adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130932_5427_RB_MRC_fc-Web_1761898446686.jpg" group-title="Fancode-Football", Real Betis vs RCD Mallorca (LALIGA 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/130932_english_hls_22a576a55434271_1adfreeta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/137617_CASACARDS_APP.png" group-title="Fancode-Football", Real Zaragoza vs Deportivo de La Coruña (LALIGA Hypermotion 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137617_english_hls_9feb87be1e14849_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1762093276/prd/qgqvd6lxrwbx5vs51rp8" group-title="Live",IND vs SA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762110052~exp=1762110092~acl=/variant/v1blackout/vcg-01-d/*~hmac=c3a1e10a9b1b2ea093bb71bbf3e9ae663c3e02ceb07711d0d37fcf94c544b69b&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
