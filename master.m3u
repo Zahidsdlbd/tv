@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-02 17:57:30 (BD Time)
+# Update on 2025-11-02 19:12:57 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -194,6 +194,10 @@ https://bongoflixbd.top/test/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137374_english_hls_b4f9bd502a18207_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137374_english_hls_b4f9bd502a18207_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130936_5427_LE_CEV_fc-Web_1761898429843.jpg" group-title="Fancode-Football", Levante vs RC Celta (LALIGA 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130936_english_hls_9570eea17b32013_1adfreeta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/130936_english_hls_9570eea17b32013_1adfreeta-di_h264/index.m3u8
+
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe-vs-Afghanistan-T20Is-old-match-card.jpg" group-title="Fancode-Cricket", Afghanistan vs Zimbabwe (Afghanistan tour of Zimbabwe, 2025)
@@ -205,26 +209,22 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493654_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010762/1762040034041610_ATP_Rolex_Paris25_Doubles_Final_Patten-Heliovaara_vs_Glasspool-Cash_Live_Landscape_thumb.jpg" group-title="Live",Patten/Heliovaara vs Glasspool/Cash - Doubles Final - 2 Nov 2025 [ENG] - ATP Rolex Paris Masters 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762128765~acl=/*~id=00240850928351503294404842261354~hmac=e12d6f221c0ccdfaed6f129c1fc825637e42da9aca065063c95815c30d2795c3
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762132418~acl=/*~id=83707256672711743346861813050068~hmac=5a2d3ac5849c663fc49cf718d69657979e402f37f2e15625d7dba2f75b770b5f
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/v1762066046/prd/kcocnp2ceibmpk6fpvqz" group-title="Live",IND vs SA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762085615~exp=1762085655~acl=/variant/v1blackout/vcg-01-d/*~hmac=2c496fe16ff053e0da3d30769b15dc9690d97b5560a80ee2b5cc33f6008853db&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?hdnts=st=1762089275~exp=1762089315~acl=/variant/v1blackout/vcg-01-d/*~hmac=55498b1a3d2446d01fd28e4a4555e93c21afb6c61b08300e317118725150938f&hdcore=2.11.3
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/qcv8dpwy6ojzxow8yosc" group-title="Live",ZIM vs AFG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762085616~exp=1762085656~acl=/variant/v1blackout/vcg-01-d/*~hmac=ee1f9c3287e2876b22c32e116a7f99cf2763864b1cc99166f6052022a03e5f6b&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-04)/manifest.mpd?hdnts=st=1762089275~exp=1762089315~acl=/variant/v1blackout/vcg-01-d/*~hmac=55498b1a3d2446d01fd28e4a4555e93c21afb6c61b08300e317118725150938f&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="6907139d30593570d7fde2ee" tvg-name="Karwan VS Lexington Shotguns" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762071449514-33511399.webp" group-title="Live",Karwan VS Lexington Shotguns
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/gD6B8aVYFgtDWWc321991409104696.m3u8
 
 #EXTINF:-1 tvg-id="68c0309a39d6e519355af0b7" tvg-name="Spartans CC VS Indorwa CC" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757425801100-774736885.webp" group-title="Live",Spartans CC VS Indorwa CC
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
