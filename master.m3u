@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-03 10:16:41 (BD Time)
+# Update on 2025-11-03 10:58:00 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -488,6 +488,10 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="69033a2a0f2e708c575bcb74" tvg-name="United Arab Emirates VS United States of America" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761819166956-759225333.webp" group-title="Live",United Arab Emirates VS United States of America
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
 
 
 #EXTM3U
