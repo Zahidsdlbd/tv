@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-03 04:57:43 (BD Time)
+# Update on 2025-11-03 05:57:30 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -488,22 +488,6 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="68fa2ba2f77cf099f802bdc4" tvg-name="Otago Volts VS Central Stags" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297909866-855642921.webp" group-title="Live",Otago Volts VS Central Stags
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
-
-#EXTINF:-1 tvg-id="68fa2bd04e4aa6d729f67557" tvg-name="Northern District VS Wellington Firebirds" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297937196-598672951.webp" group-title="Live",Northern District VS Wellington Firebirds
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/LyEk5QgpaTs4BssV1300653986007.m3u8
-
-#EXTINF:-1 tvg-id="68fa2d954e4aa6d729f67558" tvg-name="Canterbury Kings VS Auckland Aces" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761297952044-848941821.webp" group-title="Live",Canterbury Kings VS Auckland Aces
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/O0GabPQW1YuXvATg1250689821500.m3u8
-
-#EXTINF:-1 tvg-id="68c035c039d6e519355af0ba" tvg-name="New South Wales VS Queensland Bulls" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1757427128538-8334608.webp" group-title="Live",New South Wales VS Queensland Bulls
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/ayiUCJPjvdA58Pz522569771397956.m3u8
 
 
 #EXTM3U
