@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-05 00:57:29 (BD Time)
+# Update on 2025-11-05 01:57:26 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -474,6 +474,10 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136066_english_hls_7ab6195eb063118_1adfreeta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136066_english_hls_7ab6195eb063118_1adfreeta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136959_5489_CVC_SHF_fc-web.jpg" group-title="Fancode-Football", Coventry City Football Club vs Sheffield United F.C. (EFL Championship 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136959_english_hls_1842a0557f30494_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136959_english_hls_1842a0557f30494_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136066_5647_ITT_SHJ_fc-Web.jpg" group-title="Fancode-Football", Al-Ittihad vs Sharjah (AFC Champions League Elite 2025-26)
@@ -483,21 +487,51 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
+#EXTINF:-1 tvg-id="1090493364_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="Live",Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493364_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="Live",Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [HIN] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493364_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="Live",Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [TAM] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493364_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895868220275_UCL25_MD4_Liverpool_vs_Real_Madrid_31oct_landscape_thumb.jpg" group-title="Live",Liverpool vs Real Madrid - MD 4 - 5 Nov 2025 [TEL] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493368_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761895599192290_UCL_25_26_MD4_PSG_vs_Bayern_landscape_thumb.jpg" group-title="Live",PSG vs Bayern - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
 #EXTINF:-1 tvg-id="1090493362_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg" group-title="Live",Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762325943~acl=/*~id=40834825021356685870949603242573~hmac=fccb8e2227f137e55d8ffedb8b7e091bf5a02fc5c0e016f797ca50781c9c5d99
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
 #EXTINF:-1 tvg-id="1090493362_HIN" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg" group-title="Live",Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025 [HIN] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762325943~acl=/*~id=40834825021356685870949603242573~hmac=fccb8e2227f137e55d8ffedb8b7e091bf5a02fc5c0e016f797ca50781c9c5d99
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
 #EXTINF:-1 tvg-id="1090493362_TAM" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg" group-title="Live",Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025 [TAM] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762325943~acl=/*~id=40834825021356685870949603242573~hmac=fccb8e2227f137e55d8ffedb8b7e091bf5a02fc5c0e016f797ca50781c9c5d99
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
 #EXTINF:-1 tvg-id="1090493362_TEL" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010685/1761894704148290_UCL_25_26_MD4_Slavia-Prague-vs-Arsenal_landscape_thumb.jpg" group-title="Live",Slavia Praha vs Arsenal - MD 4 - 4 Nov 2025 [TEL] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762325943~acl=/*~id=40834825021356685870949603242573~hmac=fccb8e2227f137e55d8ffedb8b7e091bf5a02fc5c0e016f797ca50781c9c5d99
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493365_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761896529179275_UCL25_MD4_Tottenham_vs_Copenhagen_31oct_landscape_thumb.jpg" group-title="Live",Tottenham vs Copengahen - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493363_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761901137971275_UCL25_MD4_Atleti_vs_Union_SG_31oct_landscape_thumb.jpg" group-title="Live",Atletico vs Union SG - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493367_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895545019275_UCL25_MD4_Juventus_vs_Sporting_CP_31oct_landscape_thumb.jpg" group-title="Live",Juventus vs Sporting CP - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
 #EXTINF:-1 tvg-id="1090493361_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761894305930275_UCL25_MD4_Napoli_vs_Frankfurt_31oct_landscape_thumb.jpg" group-title="Live",Napoli vs Frankfurt - MD 4 - 4 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762325943~acl=/*~id=40834825021356685870949603242573~hmac=fccb8e2227f137e55d8ffedb8b7e091bf5a02fc5c0e016f797ca50781c9c5d99
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493369_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761895289300275_UCL25_MD4_Bodo_Glimt_vs_Monaco_31oct_landscape_thumb.jpg" group-title="Live",Bodo/Glimt vs Monaco - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
+#EXTINF:-1 tvg-id="1090493366_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010683/1761896274187275_UCL25_MD4_Olympiacos_vs_PSV_31oct_landscape_thumb.jpg" group-title="Live",Olympiacos vs PSV - MD 4 - 5 Nov 2025 [ENG] - UEFA Champions League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762328396~acl=/*~id=37079051386862630930396054739601~hmac=87512553914a1822f7c1858003f4a0e4872c0bc1ff0aaf9ce56ba819d59001bd
 
 #EXTM3U
 #EXTM3U
