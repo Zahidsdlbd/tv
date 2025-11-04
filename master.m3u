@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-04 19:57:40 (BD Time)
+# Update on 2025-11-04 20:57:53 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -470,22 +470,18 @@ https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Cha
 https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136016_5647_BU_SHG_fc-Web.jpg" group-title="Fancode-Football", Buriram United vs Shanghai Port (AFC Champions League Elite 2025-26)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136016_english_hls_e4f80845f294008_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136016_english_hls_e4f80845f294008_1ta-di_h264/index.m3u8
-
-
-#EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136016_5647_BU_SHG_fc-Web.jpg" group-title="Fancode-Football", Buriram United vs Shanghai Port (AFC Champions League Elite 2025-26)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136016_english_hls_e4f80845f294008_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 
 #EXTM3U
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1090493539_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881835162917_UYL25_MD4_Liverpool_vs_RealMadrid_landscape_thumb.jpg" group-title="Live",Liverpool vs Real Madrid - MD 4 - 4 Nov 2025 [ENG] - UEFA Youth League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311888~acl=/*~id=63649304107914454003110558300142~hmac=77de7fcb5c4ec08d02e38d70a4eb1e9f588a90d617c2684a2416345d07590b38
 #EXTINF:-1 tvg-id="1090493538_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761881584349917_UYL25_MD4_Paris_vs_BayernMunich_Landscape_thumb.jpg" group-title="Live",Paris vs Bayern Munich - MD 4 - 4 Nov 2025 [ENG] - UEFA Youth League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762308224~acl=/*~id=71288878951825711421490065009999~hmac=f0d346d8224b4090c07f1d747273b5faf2a3ebcaa9f811a3261e687d0c4c1b1a
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762311888~acl=/*~id=63649304107914454003110558300142~hmac=77de7fcb5c4ec08d02e38d70a4eb1e9f588a90d617c2684a2416345d07590b38
 
 #EXTM3U
 #EXTM3U
