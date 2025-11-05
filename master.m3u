@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-05 08:01:29 (BD Time)
+# Update on 2025-11-05 10:01:07 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -481,6 +481,10 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTM3U
 
 #EXTM3U
+
+#EXTINF:-1 tvg-id="6909c6b49195d469b55aacf0" tvg-name="DCA Behraich VS Lucknow CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248367829-266349307.webp" group-title="Live",DCA Behraich VS Lucknow CA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 
 #EXTM3U
