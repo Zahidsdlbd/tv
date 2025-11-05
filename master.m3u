@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-05 10:01:07 (BD Time)
+# Update on 2025-11-05 10:57:22 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -485,6 +485,18 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTINF:-1 tvg-id="6909c6b49195d469b55aacf0" tvg-name="DCA Behraich VS Lucknow CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248367829-266349307.webp" group-title="Live",DCA Behraich VS Lucknow CA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
+
+#EXTINF:-1 tvg-id="68f24ba5e4b44a5c727eb7d3" tvg-name="Yokohama TWS VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760709539229-323987025.webp" group-title="Live",Yokohama TWS VS REVOCARE SOLUTION
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zo4vlQoEa96H1K1m1291563786937.m3u8
+
+#EXTINF:-1 tvg-id="68f62fa8e4b44a5c727eb803" tvg-name="Peoples Leasing VS CEYLINCO INSURANCE" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964500100-341480295.webp" group-title="Live",Peoples Leasing VS CEYLINCO INSURANCE
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
+
+#EXTINF:-1 tvg-id="69033a5da62b55864def6e97" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761819227081-483414941.webp" group-title="Live",United Arab Emirates VS Nepal
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
 
 
 #EXTM3U
