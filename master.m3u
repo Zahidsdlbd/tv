@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-05 11:57:43 (BD Time)
+# Update on 2025-11-05 12:58:38 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -474,10 +474,16 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" group-title="Fancode-Cricket", West Indies vs New Zealand (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762365628~acl=/*~id=10075103491291143433139793258547~hmac=55e0ff4f163c84f74dc713f468d2084564cf4373ea6f77a63ecf284a4f011c75
+
 
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/03_UAE-vs-Nepal.jpg" group-title="Fancode-Cricket", Nepal vs United Arab Emirates (ICC CWC League 2, 2023-27)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137256_english_hls_f2ec14d7055321_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" group-title="Fancode-Cricket", West Indies vs New Zealand (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762365628~acl=/*~id=10075103491291143433139793258547~hmac=55e0ff4f163c84f74dc713f468d2084564cf4373ea6f77a63ecf284a4f011c75
 
 
 #EXTM3U
@@ -485,21 +491,17 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493797_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231007524425_NZvsWI25_1t20i_4nov_landscape_thumb.jpg" group-title="Live",1st T20I - 5 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762366098~acl=/*~id=72786852997504478323501046533133~hmac=7888bc6233cc2a1e3de315eabb52cf7cc75ecffad2182b2d94e2cd11f81c235c
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762369730~acl=/*~id=56392946511004822138830534713127~hmac=eb004ef166fe198210bbd3fe49cd9905666675b67124412d7c96250b63d77e4d
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/knkopb4wmzz443nopu7v" group-title="Live",UAE vs NEP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1762323235~exp=1762323275~acl=/variant/v1blackout/vcg-01-d/*~hmac=1045a2c34441e302a391ef85f9e98eda0a402f2885becc9e2ff9e90f39c3a828&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/manifest.mpd?hdnts=st=1762326081~exp=1762326121~acl=/variant/v1blackout/vcg-01-d/*~hmac=4f9d5f4283ae1512cca0f65da133c732bc3f2a0e9022c677b6d93e91d088073e&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="6909c6b49195d469b55aacf0" tvg-name="DCA Behraich VS Lucknow CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248367829-266349307.webp" group-title="Live",DCA Behraich VS Lucknow CA
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 #EXTINF:-1 tvg-id="68f24ba5e4b44a5c727eb7d3" tvg-name="Yokohama TWS VS REVOCARE SOLUTION" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760709539229-323987025.webp" group-title="Live",Yokohama TWS VS REVOCARE SOLUTION
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
@@ -512,6 +514,10 @@ https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 #EXTINF:-1 tvg-id="69033a5da62b55864def6e97" tvg-name="United Arab Emirates VS Nepal" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1761819227081-483414941.webp" group-title="Live",United Arab Emirates VS Nepal
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/m2QcVAUkx7L8rg5J22593111302472.m3u8
+
+#EXTINF:-1 tvg-id="6909c6f630593570d7fde307" tvg-name="DCA Aligarh VS Varanasi CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248435758-245247935.webp" group-title="Live",DCA Aligarh VS Varanasi CA
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
 
 #EXTM3U
