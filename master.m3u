@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-06 14:59:36 (BD Time)
+# Update on 2025-11-06 15:57:39 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -325,9 +325,13 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/maste
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg" group-title="Fancode-Golf", Day 1 vs Mission Hills China (Aramco China Championship)
-#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136181_5648_PHG_TAM_fc-Web_1758118383614.jpg" group-title="Fancode-Football", Pohang Steelers vs Tampines Rovers FC (AFC Champions League Two 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136181_english_hls_38bd67d98b13614_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136181_english_hls_38bd67d98b13614_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136169_5648_LIO_BU_fc-Web_1758118382767.jpg" group-title="Fancode-Football", Lion City Sailors vs Bangkok United (AFC Champions League Two 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136169_english_hls_fb6bd68d8d55538_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136169_english_hls_fb6bd68d8d55538_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
 #EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8
@@ -341,9 +345,6 @@ https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/maste
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg" group-title="Fancode-Football", Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg" group-title="Fancode-Golf", Day 1 vs Mission Hills China (Aramco China Championship)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8
 
@@ -353,19 +354,12 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493936_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231038475425_NZvsWI25_2t20i_4nov_landscape_thumb.jpg" group-title="Live",2nd T20I - 6 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762462972~acl=/*~id=94120364502738853920395089234391~hmac=548c27cf5d6f0b718184f315fd3351d68f58128a95a2c15fea115102e2f88446
-#EXTINF:-1 tvg-id="1090493935_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824517185210_Asian_tour_Moutai_Singapore_Open_day1_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 1 - 6 Nov 2025 [ENG] - Asian Tour 2025 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762462972~acl=/*~id=94120364502738853920395089234391~hmac=548c27cf5d6f0b718184f315fd3351d68f58128a95a2c15fea115102e2f88446
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762466625~acl=/*~id=03773095742421253689209370784409~hmac=f613a5a041d2c10ac3d8d6e021fb9b00a62ebe61496e574891cb8594a043cf00
 
 #EXTM3U
 #EXTM3U
 
 #EXTM3U
-
-#EXTINF:-1 tvg-id="690a1420654186068ac413aa" tvg-name="Indonesia VS Timor Leste" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268188051-506320312.webp" group-title="Live",Indonesia VS Timor Leste
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
 
 #EXTINF:-1 tvg-id="6909c7db30593570d7fde308" tvg-name="DCA Behraich VS DCA Aligarh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248663085-575497753.webp" group-title="Live",DCA Behraich VS DCA Aligarh
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
