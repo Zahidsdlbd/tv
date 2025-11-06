@@ -1,3 +1,4 @@
+https://nettv.fun/playlist/akashgo.m3u
 https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u
 https://raw.githubusercontent.com/abid58b/FanCodePlaylist/refs/heads/main/fancode_ww2.m3u
 https://raw.githubusercontent.com/abid58b/FanCodePlaylist/refs/heads/main/fancode_ww1.m3u
