@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-06 11:57:55 (BD Time)
+# Update on 2025-11-06 12:59:13 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -20,7 +20,21 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (4)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
-error code: 522
+<!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 404 Not Found
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Found
+</h2>
+<p>The resource requested could not be found on this server!</p>
+</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
+<br>Proudly powered by LiteSpeed Web Server<p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="Akash Go",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -317,26 +331,22 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493936_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231038475425_NZvsWI25_2t20i_4nov_landscape_thumb.jpg" group-title="Live",2nd T20I - 6 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762452552~acl=/*~id=06371497524231734891431716041131~hmac=d49fe595c337d70d204dc85e3c70808c821117df0952f49d753427db061a3e1a
+https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762455625~acl=/*~id=49162482306108332592881309996546~hmac=3be482301017cc08cc493adfab7a434a847eb9c5afd96679102b8919e87a643e
 #EXTINF:-1 tvg-id="1090493935_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824517185210_Asian_tour_Moutai_Singapore_Open_day1_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 1 - 6 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762452552~acl=/*~id=06371497524231734891431716041131~hmac=d49fe595c337d70d204dc85e3c70808c821117df0952f49d753427db061a3e1a
+https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762455625~acl=/*~id=49162482306108332592881309996546~hmac=3be482301017cc08cc493adfab7a434a847eb9c5afd96679102b8919e87a643e
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ws0go9v9ufcwmqyaell1" group-title="Live",Indonesia vs Myanmar
+#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/dcnp772m09rpu3k7xcv2" group-title="Live",2nd T20I: Indonesia v Timor-Leste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1762405212~exp=1762405252~acl=/variant/v1blackout/vcg-01-d/*~hmac=73142f7646f72caf866c2c47f6e45d2ea36d4e02196a2249313d37c132c99ccb&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1762412471~exp=1762412511~acl=/variant/v1blackout/vcg-01-d/*~hmac=48e4f3c8c34387eaa3fb879e37692299f1a08a79b4f118de14e6fe89703695ca&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690a13e1a62b55864def6eb4" tvg-name="Indonesia VS Myanmar" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268121813-347741557.webp" group-title="Live",Indonesia VS Myanmar
-#EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
-
-#EXTINF:-1 tvg-id="6909c79a9195d469b55aacf1" tvg-name="Lucknow CA VS Varanasi CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248597581-338407640.webp" group-title="Live",Lucknow CA VS Varanasi CA
+#EXTINF:-1 tvg-id="6909c7db30593570d7fde308" tvg-name="DCA Behraich VS DCA Aligarh" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248663085-575497753.webp" group-title="Live",DCA Behraich VS DCA Aligarh
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
