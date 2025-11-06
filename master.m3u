@@ -505,7 +505,7 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-07 03:57:56 (BD Time)
+# Update on 2025-11-07 04:57:52 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -523,19 +523,12 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/135964_CASACARDS_APP.png" group-title="Fancode-Football", Reading vs Stevenage (League One 2025-26)
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
 https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/135964_CASACARDS_APP.png" group-title="Fancode-Football", Reading vs Stevenage (League One 2025-26)
-https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
 https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
 
@@ -543,12 +536,6 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-id="1090493937_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761831976419571_UEL25_MD4_Aston_Villa_vs_M_Tel_Aviv_30oct_landscape_thumb.jpg" group-title="Live",Aston Villa vs M. Tel-Aviv - MD 4 - 7 Nov 2025 [ENG] - UEFA Europa League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762509786~acl=/*~id=74053145296590588945281975284288~hmac=a98687b75d53c6088c58843ffbdd8218cf6e1ed90869b8038ebded26685abf3f
-#EXTINF:-1 tvg-id="1090493947_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761875509625347_UECL25_MD3_Crystal_Palace_vs_AZ_Alkmaara_landscape_thumb.jpg" group-title="Live",Crystal Palace vs AZ Alkmaar - MD 3 - 7 Nov 2025 [ENG] - UEFA Conference League 2025-26 - ENG
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762509786~acl=/*~id=74053145296590588945281975284288~hmac=a98687b75d53c6088c58843ffbdd8218cf6e1ed90869b8038ebded26685abf3f
 
 #EXTM3U
 #EXTM3U
