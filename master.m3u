@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-06 09:56:39 (BD Time)
+# Update on 2025-11-06 10:57:47 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -336,13 +336,16 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
+#EXTINF:-1 tvg-id="1090493935_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824517185210_Asian_tour_Moutai_Singapore_Open_day1_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 1 - 6 Nov 2025 [ENG] - Asian Tour 2025 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762448873~acl=/*~id=63923410704795306859366705064818~hmac=0a86a8c5a56df757603b0563d3db771bee8c52dc755a1039f26d7e818f83ed23
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/ws0go9v9ufcwmqyaell1" group-title="Live",Indonesia vs Myanmar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1762400195~exp=1762400235~acl=/variant/v1blackout/vcg-01-d/*~hmac=ca37c9b4c2f06a7bf821a1f8365566f37b3a78d01ddc92c0a79f50be8694a651&hdcore=2.11.3
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1762405212~exp=1762405252~acl=/variant/v1blackout/vcg-01-d/*~hmac=73142f7646f72caf866c2c47f6e45d2ea36d4e02196a2249313d37c132c99ccb&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
