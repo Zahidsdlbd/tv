@@ -3,7 +3,7 @@
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-06 13:57:37 (BD Time)
+# Update on 2025-11-06 14:59:36 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -318,25 +318,47 @@ https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Cha
 https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762460135~acl=/*~id=84286535704864234747349133479054~hmac=6fb465be23305cd476de8e52d63d6a623ac7d105ae5ab04e54853a2ced7ab2ac
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg" group-title="Fancode-Football", Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg" group-title="Fancode-Golf", Day 1 vs Mission Hills China (Aramco China Championship)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
+#EXTVLCOPT:http-referrer=https://allinonereborn.xyz/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live2.php?url=https://in-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ_T20Is_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand, 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1762460135~acl=/*~id=84286535704864234747349133479054~hmac=6fb465be23305cd476de8e52d63d6a623ac7d105ae5ab04e54853a2ced7ab2ac
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/136145_5648_MAC_CAH_fc-Web_1758118382756.jpg" group-title="Fancode-Football", Macarthur vs Cong An Ha Noi (AFC Champions League Two 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/136145_english_hls_dc0caf46b316141_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-Shenzhen-Championship_match-card.jpg" group-title="Fancode-Golf", Day 1 vs Mission Hills China (Aramco China Championship)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137217_english_hls_47cf9b40c594039_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Abu-Dhabi-HSBC-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs Yas Links, Abu Dhabi (Abu Dhabi HSBC Championship)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137163_english_hls_dcc69f8d5311203_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1090493936_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010812/1762231038475425_NZvsWI25_2t20i_4nov_landscape_thumb.jpg" group-title="Live",2nd T20I - 6 Nov 2025 [ENG] - West Indies Tour of New Zealand 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762459921~acl=/*~id=51004557896601860724311432254888~hmac=207ca36dced98ba11cf51147286d0252d098b73f7f719ae1a9bccfd8fc915656
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1762462972~acl=/*~id=94120364502738853920395089234391~hmac=548c27cf5d6f0b718184f315fd3351d68f58128a95a2c15fea115102e2f88446
 #EXTINF:-1 tvg-id="1090493935_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010656/1761824517185210_Asian_tour_Moutai_Singapore_Open_day1_30oct_landscape_thumb.jpg" group-title="Live",Moutai Singapore Open - Day 1 - 6 Nov 2025 [ENG] - Asian Tour 2025 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://liveakmt-p.slivcdn.com/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762459921~acl=/*~id=51004557896601860724311432254888~hmac=207ca36dced98ba11cf51147286d0252d098b73f7f719ae1a9bccfd8fc915656
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762462972~acl=/*~id=94120364502738853920395089234391~hmac=548c27cf5d6f0b718184f315fd3351d68f58128a95a2c15fea115102e2f88446
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/dcnp772m09rpu3k7xcv2" group-title="Live",2nd T20I: Indonesia v Timor-Leste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1762414970~exp=1762415010~acl=/variant/v1blackout/vcg-01-d/*~hmac=d78f70902b63c5a0e486b0b5870ecbc7e59572ee85243e6fc8ae1fb224471bbb&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
