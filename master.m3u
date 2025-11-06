@@ -505,7 +505,7 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-07 00:59:59 (BD Time)
+# Update on 2025-11-07 01:57:33 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -513,27 +513,42 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTINF:-1 group-title="LIVE" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1761718928-1750064430-LIVE.jpg", T Sports Live 01
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD 🇧🇩 📺 (1)
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (2)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (720p) (1)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (3)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports HD (2)
 https://tvsen5.aynaott.com/tsports/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (4)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (3)
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (5)
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (4)
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/135964_CASACARDS_APP.png" group-title="Fancode-Football", Reading vs Stevenage (League One 2025-26)
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
+
+
+#EXTM3U
+#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1/135964_CASACARDS_APP.png" group-title="Fancode-Football", Reading vs Stevenage (League One 2025-26)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/135964_english_hls_3b6081b7be41178_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship-old-match-card.png" group-title="Fancode-Golf", Day 1 vs El Cardonal at Diamante - Los Cabos, Mexico (World Wide Technology Championship)
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode.com/mumbai/137973_english_hls_2b3288b37447495_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 
 #EXTM3U
-
-#EXTM3U
-#EXTINF:-1 tvg-id="1090493867_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761830634001571_UEL25_MD4_Sturm_Graz_vs_Nott_Forest_30oct_landscape_thumb.jpg" group-title="Live",Sturm Graz vs Nott'm Forest - MD 4 - 6 Nov 2025 [ENG] - UEFA Europa League 2025-26 - ENG
+#EXTINF:-1 tvg-id="1090493937_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010664/1761831976419571_UEL25_MD4_Aston_Villa_vs_M_Tel_Aviv_30oct_landscape_thumb.jpg" group-title="Live",Aston Villa vs M. Tel-Aviv - MD 4 - 7 Nov 2025 [ENG] - UEFA Europa League 2025-26 - ENG
 #EXTVLCOPT:http-referrer=https://allinonereborn.online/
-https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762498839~acl=/*~id=10373710842824699751547781504845~hmac=171c2cc22102558b534b9815157ed31c4c8ee2b771ab6cb89f36540d70e3616d
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762503095~acl=/*~id=71583859757637910499190508893186~hmac=599d5d9a2e0c3cc2bca3f0b4582da57ca6e0f7ac2e3145351a779a58921b041c
+#EXTINF:-1 tvg-id="1090493947_ENG" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010670/1761875509625347_UECL25_MD3_Crystal_Palace_vs_AZ_Alkmaara_landscape_thumb.jpg" group-title="Live",Crystal Palace vs AZ Alkmaar - MD 3 - 7 Nov 2025 [ENG] - UEFA Conference League 2025-26 - ENG
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/
+https://mini.allinonereborn.fun/events/stream_proxy.php?url=https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762503095~acl=/*~id=71583859757637910499190508893186~hmac=599d5d9a2e0c3cc2bca3f0b4582da57ca6e0f7ac2e3145351a779a58921b041c
 
 #EXTM3U
 #EXTM3U
