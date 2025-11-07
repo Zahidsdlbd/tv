@@ -2,6 +2,7 @@ https://nettv.fun/playlist/akashgo.m3u
 https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/playlist.m3u
 https://raw.githubusercontent.com/hasanhabibmottakin/xxxxxxxxxxxxxxxxxx/refs/heads/main/ott.m3u
 https://bongoflixbd.top/test/playlist.php
+https://raw.githubusercontent.com/Zahidsdlbd/ayna.m3u/refs/heads/main/t.m3u
 https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/combine_playlist.m3u
 https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/bd_rest_playlist.m3u
 https://raw.githubusercontent.com/abid58b/FanCodePlaylist/refs/heads/main/fancode_ww2.m3u
