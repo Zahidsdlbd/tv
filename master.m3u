@@ -505,7 +505,7 @@ https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazo
 #EXTM3U
 # By Abu SAEEID X Noob
 # Github X Tg @abusaeeidx
-# Update on 2025-11-07 07:59:21 (BD Time)
+# Update on 2025-11-07 09:52:27 (BD Time)
 # Note: I do not host any content, everything is publicly available. And any issues, please contact me.
 
 #EXTM3U
@@ -523,9 +523,9 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137826_5738_ENG_UAE_fc-web_1762413988143.png" group-title="Fancode-Cricket", England vs United Arab Emirates (Hong Kong Sixes, 2025)
-#EXTVLCOPT:http-referrer=https://allinonereborn.online/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137826_english_hls_af5520315343451_1ta-di_h264/index.m3u8
-https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137826_english_hls_af5520315343451_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/137828_5738_AFG_NEP_fc-web_1762413988139.png" group-title="Fancode-Cricket", Afghanistan vs Nepal (Hong Kong Sixes, 2025)
+#EXTVLCOPT:http-referrer=https://allinonereborn.online/fcww/player_world.html?stream=https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137828_english_hls_eb8f41d9c083729_1ta-di_h264/index.m3u8
+https://allinonereborn.online/fcww/live222.php?url=https://in-mc-fdlive.fancode.com/mumbai/137828_english_hls_eb8f41d9c083729_1ta-di_h264/index.m3u8
 
 
 #EXTM3U
@@ -541,20 +541,19 @@ https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://in-mc-fdlive.fancode
 #EXTM3U
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio1_1-size20/prd/u8nfdpg70a74eixvyhl7" group-title="Live",3rd T20I: Myanmar v Timor-Leste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0(Linux;Android10;K)AppleWebKit/537.36(KHTML,likeGecko)Chrome/132.0.0.0MobileSafari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-09)/manifest.mpd?hdnts=st=1762484417~exp=1762484457~acl=/variant/v1blackout/vcg-01-d/*~hmac=99ae7be156b0767abd238331f41b1cb6542d7845e9d93467e486175805545689&hdcore=2.11.3
 #EXTM3U
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="690a147f654186068ac413ab" tvg-name="Myanmar VS Timor Leste" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762268285064-191877840.webp" group-title="Live",Myanmar VS Timor Leste
+#EXTINF:-1 tvg-id="6909c82da62b55864def6eac" tvg-name="DCA Behraich VS Varanasi CA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762248745227-933084206.webp" group-title="Live",DCA Behraich VS Varanasi CA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
-https://cdn.styxsports.live/LiveApp/streams/Ef6u1xQudNQFB5Rj1310935967025.m3u8
+https://cdn-bunny.styxsports.live/LiveApp/streams/QV7ZMP2tGnLcyk0f1747578290301511.m3u8
 
-#EXTINF:-1 tvg-id="690b4d7e30593570d7fde31b" tvg-name="PAKISTAN VS KUWAIT" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762348410514-326869592.webp" group-title="Live",PAKISTAN VS KUWAIT
+#EXTINF:-1 tvg-id="690b4df2a62b55864def6eba" tvg-name="SRI LANKA VS HONG KONG, CHINA" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1762348526656-281687537.webp" group-title="Live",SRI LANKA VS HONG KONG, CHINA
 #EXTVLCOPT:http-referrer=https://www.styxsports.com/
 https://cdn.styxsports.live/LiveApp/streams/DNFgqZUBicvaGT611273896643182.m3u8
+
+#EXTINF:-1 tvg-id="68f63009e4b44a5c727eb804" tvg-name="Power Hand Plantation VS Abans Group" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/matches/1760964613539-417450426.webp" group-title="Live",Power Hand Plantation VS Abans Group
+#EXTVLCOPT:http-referrer=https://www.styxsports.com/
+https://cdn.styxsports.live/LiveApp/streams/zoNW5mqLCdTAex5i1257411282337.m3u8
 
