@@ -1,2 +1,11 @@
-https://raw.githubusercontent.com/hasanhabibmottakin/xxxxxxxxxxxxxxxxxx/refs/heads/main/ott.m3u
 https://raw.githubusercontent.com/hasanhabibmottakin/AynaOTT/refs/heads/main/playlist.m3u
+https://raw.githubusercontent.com/hasanhabibmottakin/xxxxxxxxxxxxxxxxxx/refs/heads/main/ott.m3u
+https://nettv.fun/playlist/akashgo.m3u
+https://raw.githubusercontent.com/IPTVFlixBD/BDIX-IPTV-playlist/refs/heads/main/BDIX.m3u
+https://raw.githubusercontent.com/everylive/Live-Dish/refs/heads/main/Test.m3u
+https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/bd_rest_playlist.m3u
+https://raw.githubusercontent.com/hasanhabibmottakin/Sony-Liv-/refs/heads/main/playlist.m3u
+
+
+
+
