@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/BDIX-IPTV-playlist/refs/heads/main/
 https://raw.githubusercontent.com/everylive/Live-Dish/refs/heads/main/Test.m3u
 https://raw.githubusercontent.com/hasanhabibmottakin/FC/refs/heads/main/bd_rest_playlist.m3u
 https://raw.githubusercontent.com/hasanhabibmottakin/Sony-Liv-/refs/heads/main/playlist.m3u
-
+https://raw.githubusercontent.com/FunctionError/PiratesTv/39e16cafd0da63e57b522abfaabf3d97a3f7ddac/combined_playlist.m3u
 
 
 
